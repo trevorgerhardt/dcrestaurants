@@ -1,9 +1,27 @@
 
-convert: opentable.json
-	./node_modules/.bin/json2csv --input opentable.json --output opentable.csv --fields name,address,city,state,area,postal_code,phone,reserve_url
+address = 1133 15th St NW, Washington, DC
+service = opentable
+fields = name,address,city,state,area,postal_code,phone,reserve_url
+
+restaurants := ./node_modules/.bin/restaurants
+json2csv := ./node_modules/.bin/json2csv
 
 install:
 	npm install
 
+all: opentable yelp
+
+factual:
+	$(MAKE) run service=factual
+
 opentable:
-	./node_modules/.bin/restaurants 1133 15th St NW, Washington, DC --all > opentable.json
+	$(MAKE) run
+
+run:
+	$(restaurants) $(address) --service $(service) --all > json/$(service).json
+	$(json2csv) --input json/$(service).json --output csv/$(service).csv --fields $(fields)
+
+yelp:
+	$(MAKE) run service=yelp fields=distance,name,rating,url,location,phone,categories
+
+.PHONY: install all run opentable yelp
