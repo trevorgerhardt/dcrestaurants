@@ -1,0 +1,8 @@
+{
+  "name": "dcrestaurants",
+  "private": true,
+  "dependencies": {
+    "json2csv": "*",
+    "restaurants": "*"
+  }
+}
