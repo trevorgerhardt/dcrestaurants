@@ -1,0 +1,2048 @@
+[
+	{
+		"id": "4ba21ba0f964a52033dc37e3",
+		"name": "Barcode Restaurant, Bar and Lounge",
+		"contact": {
+			"phone": "2029559001",
+			"formattedPhone": "(202) 955-9001",
+			"twitter": "barcodedc"
+		},
+		"location": {
+			"address": "1101 17th St NW",
+			"crossStreet": "at L St NW",
+			"lat": 38.90376015372789,
+			"lng": -77.03816615473423,
+			"distance": 328,
+			"postalCode": "20036",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/barcode-restaurant-bar-and-lounge/4ba21ba0f964a52033dc37e3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d14e941735",
+				"name": "American Restaurant",
+				"pluralName": "American Restaurants",
+				"shortName": "American",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/default_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": true,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 12177,
+			"usersCount": 6131,
+			"tipCount": 74
+		},
+		"url": "http://www.barcodedc.com",
+		"reservations": {
+			"url": "http://www.opentable.com/single.aspx?rid=55234&ref=9601"
+		},
+		"specials": {
+			"count": 1,
+			"items": [
+				{
+					"id": "50d4d9c4e4b0e01397df04bc",
+					"type": "frequency",
+					"message": "15% Off your next visit!",
+					"description": "Unlocked every check-in",
+					"icon": "check-in",
+					"title": "Check-in Special",
+					"provider": "foursquare",
+					"redemption": "standard"
+				}
+			]
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"venuePage": {
+			"id": "38403923"
+		},
+		"storeId": "",
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "45337bb5f964a520893b1fe3",
+		"name": "Lima Restaurant & Lounge",
+		"contact": {
+			"phone": "2027892800",
+			"formattedPhone": "(202) 789-2800",
+			"twitter": "limadc"
+		},
+		"location": {
+			"address": "1401 K St. NW",
+			"crossStreet": "at 14th St. NW",
+			"lat": 38.90259372994742,
+			"lng": -77.03230735648627,
+			"distance": 274,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/lima-restaurant--lounge/45337bb5f964a520893b1fe3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d11f941735",
+				"name": "Nightclub",
+				"pluralName": "Nightclubs",
+				"shortName": "Nightclub",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/nightlife/nightclub_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 10707,
+			"usersCount": 4380,
+			"tipCount": 75
+		},
+		"url": "http://www.limarestaurant.com",
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/lima-restaurant--lounge/45337bb5f964a520893b1fe3/menu",
+			"mobileUrl": "https://foursquare.com/v/45337bb5f964a520893b1fe3/device_menu"
+		},
+		"specials": {
+			"count": 1,
+			"items": [
+				{
+					"id": "4c06d49086ba62b5185d88b3",
+					"type": "frequency",
+					"message": "Mayor gets %30 off total check ($100 Check limit)\r\n\r\nFree Glass of Wine or Cocktail for every 3rd Checkin (With Dinner, Check Minimum $30)\r\n\r\n10th Checkin gets %15 off total dinner bill ($30 bill mini",
+					"description": "Unlocked every 3 check-ins",
+					"icon": "frequency",
+					"title": "Loyalty Special",
+					"provider": "foursquare",
+					"redemption": "standard"
+				}
+			]
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "40b13b00f964a52045f31ee3",
+		"name": "Stan's Restaurant & Lounge",
+		"contact": {
+			"phone": "2023474488",
+			"formattedPhone": "(202) 347-4488"
+		},
+		"location": {
+			"address": "1029 Vermont Ave NW",
+			"lat": 38.90359481451712,
+			"lng": -77.0332126212044,
+			"distance": 141,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/stans-restaurant--lounge/40b13b00f964a52045f31ee3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d14e941735",
+				"name": "American Restaurant",
+				"pluralName": "American Restaurants",
+				"shortName": "American",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/default_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 2870,
+			"usersCount": 1515,
+			"tipCount": 38
+		},
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/stans-restaurant--lounge/40b13b00f964a52045f31ee3/menu",
+			"mobileUrl": "https://foursquare.com/v/40b13b00f964a52045f31ee3/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4b1fe10ff964a520262a24e3",
+		"name": "Mio Restaurant",
+		"contact": {
+			"phone": "2029550075",
+			"formattedPhone": "(202) 955-0075",
+			"twitter": "miorestaurant",
+			"facebook": "96171401820"
+		},
+		"location": {
+			"address": "1110 Vermont Ave NW",
+			"crossStreet": "at L St. NW",
+			"lat": 38.904101893994884,
+			"lng": -77.03290337004393,
+			"distance": 139,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/mio-restaurant/4b1fe10ff964a520262a24e3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d1be941735",
+				"name": "Latin American Restaurant",
+				"pluralName": "Latin American Restaurants",
+				"shortName": "Latin American",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/latinamerican_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": true,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 2044,
+			"usersCount": 1309,
+			"tipCount": 22
+		},
+		"url": "http://www.miorestaurant.com",
+		"reservations": {
+			"url": "http://www.opentable.com/single.aspx?rid=11503&ref=9601"
+		},
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/mio-restaurant/4b1fe10ff964a520262a24e3/menu",
+			"mobileUrl": "https://foursquare.com/v/4b1fe10ff964a520262a24e3/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"venuePage": {
+			"id": "32823658"
+		},
+		"storeId": "",
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4f260dfbe4b0717a6a171687",
+		"name": "Fujimar Restaurant",
+		"contact": {
+			"phone": "2027892800",
+			"formattedPhone": "(202) 789-2800",
+			"twitter": "fujimardc"
+		},
+		"location": {
+			"address": "1401 K St NW",
+			"crossStreet": "14th and K",
+			"lat": 38.90260692632714,
+			"lng": -77.03227361978198,
+			"distance": 275,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/fujimar-restaurant/4f260dfbe4b0717a6a171687",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d1d2941735",
+				"name": "Sushi Restaurant",
+				"pluralName": "Sushi Restaurants",
+				"shortName": "Sushi",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/sushi_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": true,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 1356,
+			"usersCount": 706,
+			"tipCount": 12
+		},
+		"url": "http://www.fujimardc.com",
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/fujimar-restaurant/4f260dfbe4b0717a6a171687/menu",
+			"mobileUrl": "https://foursquare.com/v/4f260dfbe4b0717a6a171687/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"venuePage": {
+			"id": "37671065"
+		},
+		"storeId": "",
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4b1fe701f964a520862a24e3",
+		"name": "14K Restaurant & Lounge",
+		"contact": {
+			"phone": "2022187545",
+			"formattedPhone": "(202) 218-7545",
+			"twitter": "14krestaurant"
+		},
+		"location": {
+			"address": "1001 14th St NW",
+			"crossStreet": "14th & K St NW",
+			"lat": 38.90281885797299,
+			"lng": -77.03170716762543,
+			"distance": 297,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/14k-restaurant--lounge/4b1fe701f964a520862a24e3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d14e941735",
+				"name": "American Restaurant",
+				"pluralName": "American Restaurants",
+				"shortName": "American",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/default_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": true,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 2582,
+			"usersCount": 1508,
+			"tipCount": 28
+		},
+		"url": "http://www.14krestaurant.com",
+		"reservations": {
+			"url": "http://www.opentable.com/single.aspx?rid=5071&ref=9601"
+		},
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/14k-restaurant--lounge/4b1fe701f964a520862a24e3/menu",
+			"mobileUrl": "https://foursquare.com/v/4b1fe701f964a520862a24e3/device_menu"
+		},
+		"specials": {
+			"count": 1,
+			"items": [
+				{
+					"id": "506200e42bd52d8d50218fb4",
+					"type": "frequency",
+					"message": "Welcome to 14K Restaurant! We are glad to have you join us. Today, receive a bottle of house wine on us with the purchase of two dinner entrees from 5PM-7PM!",
+					"description": "Unlocked every check-in",
+					"finePrint": "Must be 21 years or older to drink alcoholic beverages. Must show check-in to server in order to receive bottle of wine. Cannot be combined with any other offers or discounts.",
+					"icon": "check-in",
+					"title": "Check-in Special",
+					"provider": "foursquare",
+					"redemption": "standard",
+					"page": {
+						"id": "29043111",
+						"firstName": "Crowne Plaza Hotels & Resorts",
+						"gender": "none",
+						"photo": {
+							"prefix": "https://irs3.4sqi.net/img/user/",
+							"suffix": "/4UQ0E3TZJHGST24A.gif"
+						},
+						"type": "chain",
+						"followers": {
+							"count": 830,
+							"groups": []
+						},
+						"tips": {
+							"count": 9
+						},
+						"homeCity": "Everywhere you need us to be",
+						"bio": "",
+						"contact": {
+							"twitter": "crowneplaza",
+							"facebook": "215859788444171"
+						}
+					}
+				}
+			]
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"storeId": "",
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4a90346cf964a520891620e3",
+		"name": "Thai Tanic Restaurant",
+		"contact": {
+			"phone": "2025881795",
+			"formattedPhone": "(202) 588-1795"
+		},
+		"location": {
+			"address": "1326 14th St NW",
+			"crossStreet": "btwn N & Rhode Island",
+			"lat": 38.90814160121761,
+			"lng": -77.0320993133266,
+			"distance": 463,
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/thai-tanic-restaurant/4a90346cf964a520891620e3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d149941735",
+				"name": "Thai Restaurant",
+				"pluralName": "Thai Restaurants",
+				"shortName": "Thai",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/thai_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 4022,
+			"usersCount": 2267,
+			"tipCount": 57
+		},
+		"url": "http://thaitanicrestaurant.webs.com",
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "454a1734f964a5209f3c1fe3",
+		"name": "Panache Restaurant",
+		"contact": {
+			"phone": "2022937760",
+			"formattedPhone": "(202) 293-7760"
+		},
+		"location": {
+			"address": "1725 Desales St NW",
+			"lat": 38.904735481459234,
+			"lng": -77.03977418214083,
+			"distance": 461,
+			"postalCode": "20036",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/panache-restaurant/454a1734f964a5209f3c1fe3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d1c0941735",
+				"name": "Mediterranean Restaurant",
+				"pluralName": "Mediterranean Restaurants",
+				"shortName": "Mediterranean",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/mediterranean_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 1631,
+			"usersCount": 1073,
+			"tipCount": 9
+		},
+		"url": "http://www.panacherestaurant.com",
+		"reservations": {
+			"url": "http://www.opentable.com/single.aspx?rid=4088&ref=9601"
+		},
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/panache-restaurant/454a1734f964a5209f3c1fe3/menu",
+			"mobileUrl": "https://foursquare.com/v/454a1734f964a5209f3c1fe3/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4f4373e619834bc91f56f42a",
+		"name": "Loeb's Restaurant",
+		"contact": {
+			"phone": "2023711150",
+			"formattedPhone": "(202) 371-1150"
+		},
+		"location": {
+			"address": "832 15th St NW",
+			"lat": 38.900875,
+			"lng": -77.03365,
+			"distance": 399,
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/loebs-restaurant/4f4373e619834bc91f56f42a",
+		"categories": [
+			{
+				"id": "4d4b7105d754a06374d81259",
+				"name": "Food",
+				"pluralName": "Food",
+				"shortName": "Food",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/default_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 0,
+			"usersCount": 0,
+			"tipCount": 0
+		},
+		"url": "http://loebsnydeli.com",
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4e4e534cbd4101d0d7a7c47c",
+		"name": "Lafayette Restaurant",
+		"contact": {
+			"phone": "2026382570",
+			"formattedPhone": "(202) 638-2570",
+			"twitter": "hayadamshotel"
+		},
+		"location": {
+			"address": "800 16th St., N.W.",
+			"lat": 38.90044630057355,
+			"lng": -77.03669304791644,
+			"distance": 480,
+			"postalCode": "20006",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/lafayette-restaurant/4e4e534cbd4101d0d7a7c47c",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d14e941735",
+				"name": "American Restaurant",
+				"pluralName": "American Restaurants",
+				"shortName": "American",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/default_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 73,
+			"usersCount": 63,
+			"tipCount": 3
+		},
+		"url": "http://www.hayadams.com",
+		"reservations": {
+			"url": "http://www.opentable.com/single.aspx?rid=3355&ref=9601"
+		},
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/lafayette-restaurant/4e4e534cbd4101d0d7a7c47c/menu",
+			"mobileUrl": "https://foursquare.com/v/4e4e534cbd4101d0d7a7c47c/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4f327edc19836c91c7dd689c",
+		"name": "Harvest Restaurant",
+		"contact": {
+			"phone": "2024298838",
+			"formattedPhone": "(202) 429-8838"
+		},
+		"location": {
+			"address": "1400 M St NW",
+			"lat": 38.90565,
+			"lng": -77.03295,
+			"distance": 191,
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/harvest-restaurant/4f327edc19836c91c7dd689c",
+		"categories": [
+			{
+				"id": "4d4b7105d754a06374d81259",
+				"name": "Food",
+				"pluralName": "Food",
+				"shortName": "Food",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/default_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 0,
+			"usersCount": 0,
+			"tipCount": 0
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4b33c33df964a520b11e25e3",
+		"name": "La Villa Restaurant",
+		"contact": {
+			"phone": "2022324114",
+			"formattedPhone": "(202) 232-4114"
+		},
+		"location": {
+			"address": "1317 14th St NW",
+			"crossStreet": "at Rhode Island Ave. NW",
+			"lat": 38.90789923235383,
+			"lng": -77.03171253204346,
+			"distance": 456,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/la-villa-restaurant/4b33c33df964a520b11e25e3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d1be941735",
+				"name": "Latin American Restaurant",
+				"pluralName": "Latin American Restaurants",
+				"shortName": "Latin American",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/latinamerican_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 1262,
+			"usersCount": 308,
+			"tipCount": 15
+		},
+		"reservations": {
+			"url": "http://www.opentable.com/single.aspx?rid=101011&ref=9601"
+		},
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/la-villa-restaurant/4b33c33df964a520b11e25e3/menu",
+			"mobileUrl": "https://foursquare.com/v/4b33c33df964a520b11e25e3/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"storeId": "",
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4aba4ca6f964a520c88020e3",
+		"name": "McCormick & Schmick's Seafood Restaurant (K Street)",
+		"contact": {
+			"phone": "2028612233",
+			"formattedPhone": "(202) 861-2233",
+			"twitter": "mcandschmicks"
+		},
+		"location": {
+			"address": "1652 K St NW",
+			"crossStreet": "at 17th St NW",
+			"lat": 38.902552,
+			"lng": -77.037898,
+			"distance": 361,
+			"postalCode": "20006",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/mccormick--schmicks-seafood-restaurant-k-street/4aba4ca6f964a520c88020e3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d1ce941735",
+				"name": "Seafood Restaurant",
+				"pluralName": "Seafood Restaurants",
+				"shortName": "Seafood",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/seafood_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": true,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 2719,
+			"usersCount": 1827,
+			"tipCount": 21
+		},
+		"url": "http://www.mccormickandschmicks.com",
+		"reservations": {
+			"url": "http://www.opentable.com/single.aspx?rid=6695&ref=9601"
+		},
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/mccormick--schmicks-seafood-restaurant-k-street/4aba4ca6f964a520c88020e3/menu",
+			"mobileUrl": "https://foursquare.com/v/4aba4ca6f964a520c88020e3/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4b213d32f964a520c83824e3",
+		"name": "BAO Restaurant & Lounge",
+		"contact": {
+			"phone": "2024648888",
+			"formattedPhone": "(202) 464-8888"
+		},
+		"location": {
+			"address": "1018 Vermont Ave NW",
+			"lat": 38.903206133333335,
+			"lng": -77.03350906666667,
+			"distance": 156,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/bao-restaurant--lounge/4b213d32f964a520c83824e3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d145941735",
+				"name": "Chinese Restaurant",
+				"pluralName": "Chinese Restaurants",
+				"shortName": "Chinese",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/chinese_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 37,
+			"usersCount": 26,
+			"tipCount": 2
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4da457b1bf22a143d963dbf8",
+		"name": "Restaurant Association Metropolitan Washington",
+		"contact": {},
+		"location": {
+			"lat": 38.905775,
+			"lng": -77.038667,
+			"distance": 394,
+			"city": "Washington D.C.",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/restaurant-association-metropolitan-washington/4da457b1bf22a143d963dbf8",
+		"categories": [],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 10,
+			"usersCount": 2,
+			"tipCount": 1
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4eeee04493add02fcdc7d456",
+		"name": "Sun Vegetarian Restaurant",
+		"contact": {},
+		"location": {
+			"address": "Nw Washington Dc",
+			"lat": 38.904092914220264,
+			"lng": -77.03159326090413,
+			"distance": 251,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/sun-vegetarian-restaurant/4eeee04493add02fcdc7d456",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d1d3941735",
+				"name": "Vegetarian / Vegan Restaurant",
+				"pluralName": "Vegetarian / Vegan Restaurants",
+				"shortName": "Vegetarian / Vegan",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/vegetarian_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 28,
+			"usersCount": 4,
+			"tipCount": 0
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4c6120a613791b8d912451af",
+		"name": "SouthWest NY Restaurant",
+		"contact": {
+			"phone": "2129450528",
+			"formattedPhone": "(212) 945-0528"
+		},
+		"location": {
+			"address": "225 Liberty St (Two World Financial Center)",
+			"lat": 38.906687,
+			"lng": -77.033808,
+			"distance": 260,
+			"city": "New York",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/southwest-ny-restaurant/4c6120a613791b8d912451af",
+		"categories": [],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 1,
+			"usersCount": 1,
+			"tipCount": 0
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4f32299219836c91c7bc4d7b",
+		"name": "Risheq Restaurant Consultants",
+		"contact": {
+			"phone": "3364022192",
+			"formattedPhone": "(336) 402-2192"
+		},
+		"location": {
+			"address": "1500 Massachusetts Ave NW",
+			"lat": 38.906559,
+			"lng": -77.034561,
+			"distance": 240,
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/risheq-restaurant-consultants/4f32299219836c91c7bc4d7b",
+		"categories": [
+			{
+				"id": "4d4b7105d754a06374d81259",
+				"name": "Food",
+				"pluralName": "Food",
+				"shortName": "Food",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/default_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 0,
+			"usersCount": 0,
+			"tipCount": 0
+		},
+		"url": "http://www.risheqrestaurantconsultants.com",
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4f32190c19836c91c7b59a5b",
+		"name": "Trader Vince Restaurant Equipment",
+		"contact": {
+			"phone": "2022324115",
+			"formattedPhone": "(202) 232-4115"
+		},
+		"location": {
+			"address": "1317 14th St NW",
+			"lat": 38.907546,
+			"lng": -77.03193,
+			"distance": 413,
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/trader-vince-restaurant-equipment/4f32190c19836c91c7b59a5b",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d1ca941735",
+				"name": "Pizza Place",
+				"pluralName": "Pizza Places",
+				"shortName": "Pizza",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/pizza_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 0,
+			"usersCount": 0,
+			"tipCount": 0
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4e4e5f78bd4101d0d7a8b6ef",
+		"name": "No. 10 Thomas Restaurant",
+		"contact": {
+			"phone": "2028421300",
+			"formattedPhone": "(202) 842-1300"
+		},
+		"location": {
+			"address": "10 Thomas Cir NW",
+			"lat": 38.905896762922936,
+			"lng": -77.0310309779521,
+			"distance": 340,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/no-10-thomas-restaurant/4e4e5f78bd4101d0d7a8b6ef",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d14e941735",
+				"name": "American Restaurant",
+				"pluralName": "American Restaurants",
+				"shortName": "American",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/default_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 263,
+			"usersCount": 68,
+			"tipCount": 1
+		},
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/no-10-thomas-restaurant/4e4e5f78bd4101d0d7a8b6ef/menu",
+			"mobileUrl": "https://foursquare.com/v/4e4e5f78bd4101d0d7a8b6ef/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "50a8844be4b007904b480549",
+		"name": "Kizzwara International Restaurant | Washington",
+		"contact": {
+			"twitter": "kizzwara"
+		},
+		"location": {
+			"address": "K St. NW",
+			"lat": 38.90245056152344,
+			"lng": -77.03713989257812,
+			"distance": 317,
+			"postalCode": "20006",
+			"city": "Washington DC",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/kizzwara-international-restaurant--washington/50a8844be4b007904b480549",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d1d3941735",
+				"name": "Vegetarian / Vegan Restaurant",
+				"pluralName": "Vegetarian / Vegan Restaurants",
+				"shortName": "Vegetarian / Vegan",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/vegetarian_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 1,
+			"usersCount": 1,
+			"tipCount": 0
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4b82f542f964a52069ef30e3",
+		"name": "The Heights Restaurant & Bar",
+		"contact": {},
+		"location": {
+			"address": "3115 14th St NW",
+			"lat": 38.90377469297698,
+			"lng": -77.03358372155328,
+			"distance": 103,
+			"postalCode": "20010",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/the-heights-restaurant--bar/4b82f542f964a52069ef30e3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d14e941735",
+				"name": "American Restaurant",
+				"pluralName": "American Restaurants",
+				"shortName": "American",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/default_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 38,
+			"usersCount": 31,
+			"tipCount": 3
+		},
+		"url": "http://www.theheightswashingtondc.com",
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4f32380619836c91c7c1d98b",
+		"name": "Timothy Dean Restaurant and Bar",
+		"contact": {
+			"phone": "2026382626",
+			"formattedPhone": "(202) 638-2626"
+		},
+		"location": {
+			"address": "923 16th St NW",
+			"lat": 38.901699,
+			"lng": -77.036697,
+			"distance": 357,
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/timothy-dean-restaurant-and-bar/4f32380619836c91c7c1d98b",
+		"categories": [
+			{
+				"id": "4d4b7105d754a06374d81259",
+				"name": "Food",
+				"pluralName": "Food",
+				"shortName": "Food",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/default_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 0,
+			"usersCount": 0,
+			"tipCount": 0
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4c8e69244e95236ae8c57bca",
+		"name": "Restaurant Association of Metropolitan Washington DC",
+		"contact": {},
+		"location": {
+			"lat": 38.903149635048734,
+			"lng": -77.03767699530069,
+			"distance": 311,
+			"postalCode": "20036",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/restaurant-association-of-metropolitan-washington-dc/4c8e69244e95236ae8c57bca",
+		"categories": [],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 13,
+			"usersCount": 10,
+			"tipCount": 0
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4d1a56152910236abaa63cbc",
+		"name": "Lincoln",
+		"contact": {
+			"phone": "2023869200",
+			"formattedPhone": "(202) 386-9200",
+			"twitter": "lincolnwdc"
+		},
+		"location": {
+			"address": "1110 Vermont Ave NW",
+			"crossStreet": "btwn L St and Thomas Circle NW",
+			"lat": 38.90425075048702,
+			"lng": -77.03279614448547,
+			"distance": 145,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/lincoln/4d1a56152910236abaa63cbc",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d157941735",
+				"name": "New American Restaurant",
+				"pluralName": "New American Restaurants",
+				"shortName": "New American",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/default_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 7938,
+			"usersCount": 4204,
+			"tipCount": 106
+		},
+		"url": "http://www.lincolnrestaurant-dc.com",
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/lincoln/4d1a56152910236abaa63cbc/menu",
+			"mobileUrl": "https://foursquare.com/v/4d1a56152910236abaa63cbc/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4a761decf964a52047e21fe3",
+		"name": "Equinox",
+		"contact": {
+			"phone": "2023318118",
+			"formattedPhone": "(202) 331-8118",
+			"twitter": "equinoxdc"
+		},
+		"location": {
+			"address": "818 Connecticut Ave NW",
+			"crossStreet": "at 17th St NW",
+			"lat": 38.901171,
+			"lng": -77.038456,
+			"distance": 498,
+			"postalCode": "20006",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/equinox/4a761decf964a52047e21fe3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d1c4941735",
+				"name": "Restaurant",
+				"pluralName": "Restaurants",
+				"shortName": "Restaurant",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/default_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": true,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 1059,
+			"usersCount": 642,
+			"tipCount": 18
+		},
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/equinox/4a761decf964a52047e21fe3/menu",
+			"mobileUrl": "https://foursquare.com/v/4a761decf964a52047e21fe3/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4c1bcd70eac020a16e7845c2",
+		"name": "Subway",
+		"contact": {
+			"phone": "2027857825",
+			"formattedPhone": "(202) 785-7825",
+			"twitter": "subway"
+		},
+		"location": {
+			"address": "1726 M St NW",
+			"lat": 38.90572913270863,
+			"lng": -77.03953803959611,
+			"distance": 463,
+			"postalCode": "20036",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/subway/4c1bcd70eac020a16e7845c2",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d1c5941735",
+				"name": "Sandwich Place",
+				"pluralName": "Sandwich Places",
+				"shortName": "Sandwiches",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/sandwiches_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 1112,
+			"usersCount": 242,
+			"tipCount": 5
+		},
+		"url": "http://www.subway.com",
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/subway/4c1bcd70eac020a16e7845c2/menu",
+			"mobileUrl": "https://foursquare.com/v/4c1bcd70eac020a16e7845c2/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4a5f6a5af964a52088bf1fe3",
+		"name": "Siroc",
+		"contact": {
+			"phone": "2026282220",
+			"formattedPhone": "(202) 628-2220",
+			"twitter": "ventodc"
+		},
+		"location": {
+			"address": "915 15th St NW",
+			"lat": 38.90182051885325,
+			"lng": -77.03369617597967,
+			"distance": 295,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/siroc/4a5f6a5af964a52088bf1fe3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d110941735",
+				"name": "Italian Restaurant",
+				"pluralName": "Italian Restaurants",
+				"shortName": "Italian",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/italian_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 990,
+			"usersCount": 696,
+			"tipCount": 13
+		},
+		"reservations": {
+			"url": "http://www.opentable.com/single.aspx?rid=29503&ref=9601"
+		},
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/siroc/4a5f6a5af964a52088bf1fe3/menu",
+			"mobileUrl": "https://foursquare.com/v/4a5f6a5af964a52088bf1fe3/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "40b13b00f964a5200df41ee3",
+		"name": "Ascot",
+		"contact": {
+			"phone": "2022967640",
+			"formattedPhone": "(202) 296-7640"
+		},
+		"location": {
+			"address": "1708 L St NW",
+			"lat": 38.90360702582248,
+			"lng": -77.03875651693171,
+			"distance": 382,
+			"postalCode": "20036",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/ascot/40b13b00f964a5200df41ee3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d10f941735",
+				"name": "Indian Restaurant",
+				"pluralName": "Indian Restaurants",
+				"shortName": "Indian",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/indian_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 112,
+			"usersCount": 65,
+			"tipCount": 1
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4b5df383f964a520a77529e3",
+		"name": "Casa Blanca",
+		"contact": {
+			"phone": "2023934430",
+			"formattedPhone": "(202) 393-4430"
+		},
+		"location": {
+			"address": "1014 Vermont Ave NW",
+			"crossStreet": "at 15th St NW",
+			"lat": 38.902990221977234,
+			"lng": -77.03345138,
+			"distance": 180,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/casa-blanca/4b5df383f964a520a77529e3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d1c1941735",
+				"name": "Mexican Restaurant",
+				"pluralName": "Mexican Restaurants",
+				"shortName": "Mexican",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/mexican_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 381,
+			"usersCount": 201,
+			"tipCount": 6
+		},
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/casa-blanca/4b5df383f964a520a77529e3/menu",
+			"mobileUrl": "https://foursquare.com/v/4b5df383f964a520a77529e3/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "40b13b00f964a52046f71ee3",
+		"name": "Bravo! Bravo!",
+		"contact": {
+			"phone": "2022235330",
+			"formattedPhone": "(202) 223-5330"
+		},
+		"location": {
+			"address": "1001 Connecticut Ave NW",
+			"lat": 38.90275,
+			"lng": -77.039593,
+			"distance": 480,
+			"postalCode": "20036",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/bravo-bravo/40b13b00f964a52046f71ee3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d116941735",
+				"name": "Bar",
+				"pluralName": "Bars",
+				"shortName": "Bar",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/nightlife/bar_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 987,
+			"usersCount": 425,
+			"tipCount": 5
+		},
+		"url": "http://www.bravobravodc.com",
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/bravo-bravo/40b13b00f964a52046f71ee3/menu",
+			"mobileUrl": "https://foursquare.com/v/40b13b00f964a52046f71ee3/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4af46120f964a520e4f121e3",
+		"name": "Subway",
+		"contact": {
+			"phone": "2022894301",
+			"formattedPhone": "(202) 289-4301",
+			"twitter": "subway"
+		},
+		"location": {
+			"address": "1444 I St NW",
+			"crossStreet": "btwn 14th & 15th St NW",
+			"lat": 38.90145197295165,
+			"lng": -77.032729064496,
+			"distance": 361,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/subway/4af46120f964a520e4f121e3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d1c5941735",
+				"name": "Sandwich Place",
+				"pluralName": "Sandwich Places",
+				"shortName": "Sandwiches",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/sandwiches_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 883,
+			"usersCount": 285,
+			"tipCount": 3
+		},
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/subway/4af46120f964a520e4f121e3/menu",
+			"mobileUrl": "https://foursquare.com/v/4af46120f964a520e4f121e3/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4ae05617f964a520b07e21e3",
+		"name": "Great American Grill",
+		"contact": {
+			"phone": "2027837800",
+			"formattedPhone": "(202) 783-7800"
+		},
+		"location": {
+			"address": "815 14th St NW",
+			"lat": 38.900482,
+			"lng": -77.031933,
+			"distance": 488,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/great-american-grill/4ae05617f964a520b07e21e3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d14e941735",
+				"name": "American Restaurant",
+				"pluralName": "American Restaurants",
+				"shortName": "American",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/default_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 45,
+			"usersCount": 28,
+			"tipCount": 3
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4e4e55a3bd4101d0d7a7f34f",
+		"name": "Olives - DC",
+		"contact": {
+			"phone": "2024521866",
+			"formattedPhone": "(202) 452-1866"
+		},
+		"location": {
+			"address": "1600 K St NW",
+			"lat": 38.902525,
+			"lng": -77.036542,
+			"distance": 275,
+			"postalCode": "20006",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/olives--dc/4e4e55a3bd4101d0d7a7f34f",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d1c0941735",
+				"name": "Mediterranean Restaurant",
+				"pluralName": "Mediterranean Restaurants",
+				"shortName": "Mediterranean",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/mediterranean_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 0,
+			"usersCount": 0,
+			"tipCount": 0
+		},
+		"url": "http://www.toddenglish.com",
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/olives--dc/4e4e55a3bd4101d0d7a7f34f/menu",
+			"mobileUrl": "https://foursquare.com/v/4e4e55a3bd4101d0d7a7f34f/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4b4a21fbf964a520c17b26e3",
+		"name": "City Buffet of China",
+		"contact": {
+			"phone": "2028981698",
+			"formattedPhone": "(202) 898-1698"
+		},
+		"location": {
+			"address": "1101 14th St NW",
+			"crossStreet": "L St. NW",
+			"lat": 38.90395,
+			"lng": -77.031975,
+			"distance": 221,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/city-buffet-of-china/4b4a21fbf964a520c17b26e3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d145941735",
+				"name": "Chinese Restaurant",
+				"pluralName": "Chinese Restaurants",
+				"shortName": "Chinese",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/chinese_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 484,
+			"usersCount": 260,
+			"tipCount": 6
+		},
+		"url": "http://chinabuffetpa.com",
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/city-buffet-of-china/4b4a21fbf964a520c17b26e3/menu",
+			"mobileUrl": "https://foursquare.com/v/4b4a21fbf964a520c17b26e3/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "4b5275c9f964a520467e27e3",
+		"name": "Ghana Cafe",
+		"contact": {
+			"phone": "2023873845",
+			"formattedPhone": "(202) 387-3845"
+		},
+		"location": {
+			"address": "1336 14th St NW",
+			"lat": 38.90835720879729,
+			"lng": -77.03211618170423,
+			"distance": 484,
+			"postalCode": "20005",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/ghana-cafe/4b5275c9f964a520467e27e3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d1c8941735",
+				"name": "African Restaurant",
+				"pluralName": "African Restaurants",
+				"shortName": "African",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/african_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 614,
+			"usersCount": 480,
+			"tipCount": 18
+		},
+		"url": "http://www.ghanacafe.com",
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/ghana-cafe/4b5275c9f964a520467e27e3/menu",
+			"mobileUrl": "https://foursquare.com/v/4b5275c9f964a520467e27e3/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	},
+	{
+		"id": "49fdd6d1f964a520326f1fe3",
+		"name": "Nage - An East Coast Eatery",
+		"contact": {
+			"phone": "2024488005",
+			"formattedPhone": "(202) 448-8005",
+			"twitter": "nagebistro"
+		},
+		"location": {
+			"address": "1600 Rhode Island Ave NW",
+			"crossStreet": "in Courtyard Marriott on Scott Cir",
+			"lat": 38.907087418529514,
+			"lng": -77.03702477964366,
+			"distance": 372,
+			"postalCode": "20036",
+			"city": "Washington",
+			"state": "DC",
+			"country": "United States",
+			"cc": "US"
+		},
+		"canonicalUrl": "https://foursquare.com/v/nage--an-east-coast-eatery/49fdd6d1f964a520326f1fe3",
+		"categories": [
+			{
+				"id": "4bf58dd8d48988d143941735",
+				"name": "Breakfast Spot",
+				"pluralName": "Breakfast Spots",
+				"shortName": "Breakfast",
+				"icon": {
+					"prefix": "https://foursquare.com/img/categories_v2/food/breakfast_",
+					"suffix": ".png"
+				},
+				"primary": true
+			}
+		],
+		"verified": false,
+		"restricted": true,
+		"stats": {
+			"checkinsCount": 1843,
+			"usersCount": 1264,
+			"tipCount": 32
+		},
+		"url": "http://www.nage.bz",
+		"reservations": {
+			"url": "http://www.opentable.com/single.aspx?rid=6740&ref=9601"
+		},
+		"menu": {
+			"type": "Menu",
+			"label": "Menu",
+			"anchor": "See menu",
+			"url": "https://foursquare.com/v/nage--an-east-coast-eatery/49fdd6d1f964a520326f1fe3/menu",
+			"mobileUrl": "https://foursquare.com/v/49fdd6d1f964a520326f1fe3/device_menu"
+		},
+		"specials": {
+			"count": 0,
+			"items": []
+		},
+		"hereNow": {
+			"count": 0,
+			"groups": []
+		},
+		"referralId": "v-1377267504"
+	}
+]

@@ -1,0 +1,1749 @@
+[
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.903872,
+				"lng": -77.038042
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "ca4aa4f6d75ba4b5db907dd7bcc826fd7e3a68cf",
+		"name": "Barcode Restaurant, Bar & Lounge",
+		"photos": [
+			{
+				"height": 683,
+				"html_attributions": [],
+				"photo_reference": "CqQBkgAAAL940WDZsWMFnNnzyzwJP6a52650_45ovy2rUGUsFhp-8pDwuHqbRGt2WNdI7zw6MxWp-Uzue-Cj3W5v_xNx_Y5Cax3N-eQJnukFPmwx4C0o1JJE56wZMjIIxBis6Z3ajdZvH5M9wlhqtcY5rbuK3Jti_5sIv-9IP9T2Ix6lov1TBiD8OTJ225UOmmkJzK-xGEAxR84L8BnI1aqaV8aJDwMSENV26K418bJDMtHz62OzX3gaFOlftOemH4w4sPwlGwacmn6e7KiR",
+				"width": 1024
+			}
+		],
+		"price_level": 2,
+		"rating": 3.6,
+		"reference": "CoQBfQAAABT_TSBywBtMiABtpJ1Qnho2HYIZuimB0eW5og6j_LPreiL-vdjJMB4W8AjsLSTJRvCMdC9lmqmNoQpGBPsg7X-JHOo8vf1O50Hnxck73jRVUDg3Vbd985dVcELRbhZ1bEDFI8tX4I5-XAEoIIxRnUsL5PDhJMQMFkVNzCOa1krXEhDQkUZHC3slKcq_yRIgHSBhGhRjSh_Ivwn69n7B0_kJku0tw3APFw",
+		"types": [
+			"night_club",
+			"bar",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1101 17th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.901049,
+				"lng": -77.037544
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "fb6f5e1185556410ca3888c98138f1d5b9306df6",
+		"name": "BlackFinn",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 399,
+				"html_attributions": [],
+				"photo_reference": "CnRsAAAAhWi64H_l8XjvypNIAbH-UOpotxCgs0tEr_BAL4IsMnH2WNKVISTsLRM5oUe_lVHXijzeGfiXRnq06m3JiEAgGk22ej5CdNeJl9IRay-XkVXc7OTWgqTamVe5YapuTp_MNQEbA7at9xORTJxaPOMPPhIQUuFHZ3jCoJ9HAICzTEN5fRoUC1Xztitywnw9fWvnVL72AZAZ62U",
+				"width": 600
+			}
+		],
+		"price_level": 2,
+		"rating": 3.7,
+		"reference": "CnRnAAAAWeHNCjXhM_7dhrIBeNwUkRoGwHOu0Ijz8B9YpdkQLDyXBJp6VXEBpwdJBt6dUqbkvHPCMVcA5z28EJJtBxD9y1Xaml_speSvUZLBVuhO-gwdRSqrEKDZUfbKjAB1KR7aQz8pKZtGbpijrV46pslxUBIQG72l2OIdeOSp_aKh0cR8BBoU7uwHhoR63TWvw0grNKSnRPISyyQ",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1620 I Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.904376,
+				"lng": -77.032918
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "ead9d8d3d7b8b7f7c15caed29a915fc1ac5669ff",
+		"name": "Lincoln Restaurant",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 200,
+				"html_attributions": [],
+				"photo_reference": "CoQBcgAAAK-gtoTMgnXZu5u9oagdTEVnGetTSsABuGDXkvWpcwQT5DETL5pmYiOEAE9T6Ru3KFQdtEi9LdInY6ZFy2fAVSe3dgv5qDzbCZK-6khs6beIf07CNVxyeXCKvuNI7k9kKDh5Iwtfz6Yhw7uaK66_z_a3Ry2leEXEtiFE41nsOwjtEhC_dlRFSLZlkuN9L01f7hU7GhQAmctJJNuoOQFKD12zmb2Bl107Sg",
+				"width": 250
+			}
+		],
+		"price_level": 2,
+		"rating": 4.1,
+		"reference": "CnRwAAAAD3bMJSHR3TWUWTtG9J-1TfiGq6nTsMGJ6yTu6Rsp0MxHyygqVH18_OXyUBxE5pdIGy2sHL3nmkmt8Rh_bLEpQO6YSwmCFNtkyLStoULs8t3Xt2AuL7eRsnXdnUkTniDbbSx2gqedL9NN7Fr72XApNBIQoWVEIrKI_ykz7CsjS7CkkhoUU7y0EhkaHpRKcmPB5Jfy4LU0whw",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1110 Vermont Avenue Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.9009,
+				"lng": -77.038117
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "50dff1cb715cf18c8564ec5f712c42dd5ef4ab31",
+		"name": "Bombay Club",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 1536,
+				"html_attributions": [
+					"From a Google User"
+				],
+				"photo_reference": "CpQBhgAAAIK1PCnvd-B5nsy7hC39JIpWY-dKCyPol2p9f-IjirliHD3a56YoC8gm5QEL8Cb9EsAtZOlT1lAz-VV8lkstzf8v6nVlqCtS0GI7x2vbKQVfVGU748dQ9xuE37tZiKmc9paZRYb5MnvxxkZ-KytagLW5MQ1XwgkOQJXLf2i8bDc4e1k9wjePiqm_WIn1f2jmKRIQ8ClobwPxpQJR9_p4QUslBBoUHx80213hadSlX5VIU2_2Z16n3-8",
+				"width": 2048
+			}
+		],
+		"price_level": 3,
+		"rating": 4.4,
+		"reference": "CnRoAAAAtKoY1lpI_kc0qmfyqhW3ZZMi3ffWdlZwu32XBMx0gwPsyz6FAxb71zvqIzU938g8tdVCBLPqlvifrdQOpa85cOj6bqKzyOTbAF1zG-VJN2DFhgtB647YIdBxtPxvgm4Ub4jLghowEN9ghf-FOGVTnhIQ-rnhIIxxz2UFmyN6lKVychoUnzWt9lREUqoIc5Dn2tNArKizvrw",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "815 Connecticut Avenue Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.907524,
+				"lng": -77.039994
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "1dcaa19dfe14d3edb46b7229d06034486a392977",
+		"name": "Tabard Inn Restaurant",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 1536,
+				"html_attributions": [
+					"From a Google User"
+				],
+				"photo_reference": "CpQBhgAAALiGDH2e8uY7lVEtAAwT08R_thS_vCLZd-zEodb61zzCwZHpWQOyCUHOg2jeu0FNeSYkFgow_Yyr6XrPqGf3iXgOPIix0OcPcslRXMSWVxMP2xmaufE7ZqxtMZCV0_96Bb9l88kjXc67piB9b514et73i1LapH6ROnnMUwcsF54qpRjX_AZQ9c0TcmBlJB2MEBIQfFF1P99iqIx88UveZdtewxoUrIO2Sbxytg3yleodYNw8Eihzq1Y",
+				"width": 2048
+			}
+		],
+		"price_level": 2,
+		"rating": 4.2,
+		"reference": "CoQBcwAAAAPHUqamAwcVb6iD2uWtYQzmmlBnbtvk0dLB6F-iiobQXtzSDauLlRTz6azoezx36HTxNufd0nJXgrnC_6zSv2Uc6FMtaO_7IXLWNICmd6UFZ7Vh-QpP-BNSSukcI7L-KQQ7j_pYVDdJRDz6JYYfTPanWinvGbRezcamROCD1pgoEhBYvUydiltlvUOQF3UvHTa9GhRWfaTTzeevvm31GWvGGLK1Tv6IUQ",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1739 N Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.902721,
+				"lng": -77.032401
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "98e76d49a9669e28445a862e9b1bd15d47e9a2dc",
+		"name": "DC Coast Restaurant",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 2400,
+				"html_attributions": [],
+				"photo_reference": "CoQBcgAAAGB0N6PJdAsHTeDhEwmWpprj3WEQO69tzQuJX6v-7ZHqG7tlSepxBKDx-Bhi1BXwXZZfepwppcJPpVTYRsp4u2EGzagdgkWaEeTPlhXtLcdh8GC0yQPt-61TnsHsnWKjpELZMEcWv9ffdEjlAnhUZZHZoY9OsBghxNGSj6c9sehVEhBDWxI4aamvx481ptrgW6gOGhSkBEXqy6ygdKHQqa21WsEZ_0OGeg",
+				"width": 1600
+			}
+		],
+		"price_level": 3,
+		"rating": 4.3,
+		"reference": "CnRwAAAASmTtyuMXZV3nPU7OfG8pAnl2lsKvZFXGD0Atm6pXkGjc-wfB9wxMgBlKqJas1GoGSyu_fegy4YDJsiQx9CTDIhs2BpGUfMT-De_j5ZYsAlqvqOkG8mSGd4amnKWGOFZsV8RA88gy8h7BO-BRBCRArBIQp5PVBoFldbg027B5orY-DxoU0mENulJaptKxkeDIVcFOaO8fYT8",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1401 K Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.900541,
+				"lng": -77.033953
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "57ff65d07e85e4b5ed4206a67a682ad45bc3ca98",
+		"name": "Sofitel Washington DC Lafayette Square",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 802,
+				"html_attributions": [],
+				"photo_reference": "CoQBcwAAAN2KstpgddbRA9FV0i_sQtYccozJN3XTwbb4LCtj2PGz-0y4nC637qYmNMXq-GsUbsqBR3Am_R9HSir0YDLKwTH6RERG6gmTWxNQqHFHKcj0Nl-Dp_QcwCQHBMi1Y-Fi5q6fIjKUZEWRmguaUDV1bqtk5rCSwx4c8mIkheqxPMU4EhCfWn5iBoih1A_7d3fCbymDGhSotxRMvjgV8vAPdnXXrhvA5DewHA",
+				"width": 802
+			}
+		],
+		"rating": 4.4,
+		"reference": "CpQBgwAAAP9GScJCQvzp6LUI1rKCWcXhlAXnTAIQz1rFw5N2Uy3eD4foCWBO27ocEfnyKcsomqMNSgfNIaylRww-CESSGTvqD9WTmV8MK5Qs7vWjkMtHjYOAtftSdDYo-mrolYhTr1aB_MYF90yYsB9rFZpsW_ahbX4pbmjm-z2jHvsdEiMeCcnwjWvAPu4BFXgrrYjoGBIQPdaQDwXHsrW1THW-Z-DX3BoUBJCtkG-vGONWzQTRrjfTKsBUc04",
+		"types": [
+			"bar",
+			"restaurant",
+			"lodging",
+			"food",
+			"establishment"
+		],
+		"vicinity": "806 15th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.901701,
+				"lng": -77.037525
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "fae8db9fd0e02f98b0de68dfe130a22c2f6944ab",
+		"name": "BLT Steak",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 3264,
+				"html_attributions": [
+					"From a Google User"
+				],
+				"photo_reference": "CnRoAAAALFhqVbo3SVWt4WLM2_5OT5MxlG6vHZm0w5_MSepDF-kwfr2ShdHr2HckrV9NRQSISEttFFGJ1dGN7-AYgC8CR6tM6Q-vlhsQ6WAOYJJDe3VlUmWsSmoKOgdfZR0wLyLFTU2wwbZeZfGdmSL4IteGfBIQvXrf-q7zZe8nbSpremm6bxoUIEk32zsa9xU8Vt4bI-FfO9dv2js",
+				"width": 2448
+			}
+		],
+		"price_level": 3,
+		"rating": 4.3,
+		"reference": "CnRnAAAAblEopdhqzSURUEWAaUgKUAJ1snCy0gTtHoJ_xIfuWOCr7hwo3_pGP6oDBxZQUQ1pFFuFONYPCSX8Cyew7jg38k-XqRebjc4doL1bfd-liHSBXESJeElBWXoMiK7x1R7Bj5IIicWy55JDmT7crFmtxhIQRcy5IhgjvG6TI-wdh5E1wxoUaGeapDjiFvTDvy3DbkVIWRT5cF4",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1625 I Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.900518,
+				"lng": -77.038397
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "30daed62350ac859dc3ac41d6f01e0d7e9988a36",
+		"name": "The Oval Room",
+		"opening_hours": {
+			"open_now": false
+		},
+		"price_level": 3,
+		"rating": 4.3,
+		"reference": "CnRrAAAA4f-4tTJk0l_XV6ATyqTRgMeAIe_kfI-zJlrxQIRuwiS1OYxek1_X_ljpQgSnyDFzlYC0wxkMtGY6b61Im7UzD65C-liW6COtonRQltSkdDCwGoKq6KYFhDhYO5HaLusbRI6fmNjsUGvWsg97tDJz3hIQ7qE_dEJB6TilHHvTUDDctRoUf_XOUWzJ5sIBo7glBoARgBwXiOU",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "800 Connecticut Avenue Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.90193,
+				"lng": -77.034872
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "c8295afa228819f7eec819d19c7007dfa3942574",
+		"name": "Georgia Brown's",
+		"opening_hours": {
+			"open_now": false
+		},
+		"price_level": 2,
+		"rating": 4.1,
+		"reference": "CnRtAAAAagXgKeuSj3RiyF8LgQWyv160E3PavoYXKtRq-sFDoLqyyMlhpM9IZVCq4kFj5z6O0VC5q0CA7pgXd4RA5gYCBJbectjZzhji1WzRKBY7noRhHD12DCVjrJ1dVCAcA96tsy2-Eln-5xdt7YxP8pvyIBIQVs9-bD5iAQce2F3F3hqh6RoUnJ4dQoV31ypVeAFMuffzvZuYdL4",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "950 15th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.90104,
+				"lng": -77.038689
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "95b2b0a2bd0fdea7687bb9c8340216abd130998b",
+		"name": "Equinox",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 2036,
+				"html_attributions": [],
+				"photo_reference": "CnRoAAAAHKHkfjrQIoHsv3bt51Wf3znWeQgZLXRqWJSR5OmTq2UHV3eir4WTK2F245KRTtHorH9AAY3EqQdHlG14SWYJjTrOVheeTzaC7s20peHWo3tw414qM7xulYFTUUN6DCmiZYFJyXQ3hmk8A8HqV6fLQRIQjfViDhG0Eco-0u3i-5PMUBoUYTpsX6Mcgp_7wJWQkgMtOjxKd4g",
+				"width": 3054
+			}
+		],
+		"price_level": 3,
+		"rating": 4.3,
+		"reference": "CnRlAAAANF1lep3SRjiNQVworMFSwzZhjdpCpFGCFqCUL7lVKzIw7IJi9MKHX34egcXbFrxwLP7ehSr0yAth7VkCEI79SwZ8jVa3K9UP4zT3TJ3cy1kzWXDTzKM77PC9yqrsuU0zE4lKyR7-2OlaZ9MWoD7OmRIQyo8B_ZdgOXXGWSlhiOd9WxoUBovYLSr8MbOwNG68c4mPSbxkYno",
+		"types": [
+			"bar",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "818 Connecticut Avenue Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.908487,
+				"lng": -77.03176
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "76a50d009ec26336057a7ab03c55de56d5551001",
+		"name": "Birch & Barley",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 1280,
+				"html_attributions": [],
+				"photo_reference": "CoQBdAAAAKDlpUOyf9hmGqwhKZmHwkg7igOXcxUPOgeJaanRCuQCw-UNcis5VdcCAAuiNUdqRM0n539KtmrfL_UCWt4cUrX1IaMgSXzFevjmWPojJHgpMcYeFeD2uEsxytQo5-w_XtO90KuegvDEZAOqDvhayUvD4EEHO-319N47kzuGxK1iEhAYn4fj01b3qG0KBYeLuZ6EGhTPPnJZXmKBHlTk47mI9MgOIHMdEA",
+				"width": 853
+			}
+		],
+		"price_level": 2,
+		"rating": 4.3,
+		"reference": "CnRrAAAATtwXLACEPNAQDuxHTzgNDycNZ__eNHbRnMbLB_Moq-zsU6AU5MJ-AdZ6KtR-0hZ_Jlnv2vcsJ4jyN42Ug-OdFR7X0iy2ztoSDR4G4lntyy1s3LOp5JVMJimc5CUQqGE6HmOSIWhZ-HnqDFtQ-IWTixIQEaVjxyJ6uded28yRYRCS-xoUWUU0jY4Xl0u9VWIirbZMLAlHzdE",
+		"types": [
+			"bar",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1337 14th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.906662,
+				"lng": -77.036974
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "8c66f8d3dff8c80757692e51423e0f34c5d6501f",
+		"name": "Nage",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 1530,
+				"html_attributions": [
+					"From a Google User"
+				],
+				"photo_reference": "CnRqAAAAaVfZANV-lyvhWgyZ-aBh35AYdDvVtQxTrOsRSnfYD94hzWGfWJYkdjh4jDqbIXdaE3TlK0D6NVQ2kpIW7OgyyLeYccrjcnNuwshM100U9rrs8J5PpFBHInhRSnTz-ivZoeTkuoDzugYB6J3nxewx8BIQJTVeHGFg1N9xw4Mpw6gMYRoUPLc99pyYVwClUwrUUisJH9ixab4",
+				"width": 2048
+			}
+		],
+		"price_level": 2,
+		"rating": 3.8,
+		"reference": "CnRiAAAAHC-pfqxMJC5-M4IXKFAAAE_1JLp5z4rW0dpFhMEq1a_oy6xwZzoLLJ0wqJapInTnedcvATK4Ry6MT9s1Qs1xVp3Zko1gx0yWGTPtOjadV4SfHULpslE1j0_OZ3qFen_0eh1wX13AW6PeShY6P1G9IBIQYULTpSi5PuGkaCz8K-gVuxoUcj4f0CEPuwRX0iNDT-pbV8-CtD0",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1600 Rhode Island Avenue Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.900508,
+				"lng": -77.03383
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "fc8425966138af7809c10d952bef074282eae73b",
+		"name": "ICi Urban Bistro",
+		"opening_hours": {
+			"open_now": false
+		},
+		"price_level": 3,
+		"rating": 4.3,
+		"reference": "CnRtAAAAl2g7UgKGqYVKyPqFF7UhIG-pRw8nfyTftK2KEMYPHmyl3bDHxr3dyaNkQT8WP1tp5ODPUDpHAbsG_e_iPUUnaf05jqMuqJSrR1JPGjylyLf0ud8RIoNuKkg_9AnfJmcaxRBJwn1KKwiwE-e1DwZMJRIQP3JcZwbMwEffsJvgFDlZKhoU2zXoM41ur0iRDBu0BWiYBHHSrf0",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "806 15th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.908158,
+				"lng": -77.032227
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "fa6f4bef7afdfe9663ad6b6ad717e7ea3d607a4d",
+		"name": "Thaitanic Restaurant",
+		"opening_hours": {
+			"open_now": false
+		},
+		"price_level": 2,
+		"rating": 3.8,
+		"reference": "CoQBcQAAAPZLUPuCU7m367bt1xeMcsYGSpwv1C0JRUWNEaKg9qMkXyEq-2E5Kgk8w0bBDI1JJYtIRSCLx4Ues0wgtlWbVtIbATUjRKkUT3hKmfL88vnNSFXUTF3J6Z_LusLvwy2fJFzesKnMqfpHpZH6HZzwZgmUE-ArUj4PN0PJ-DAom05vEhCJ_OgX0cGEMxgnXpdz2vc_GhQVkrJ1QY96IUCA_JEielAFKbXM2A",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1326 14th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.900365,
+				"lng": -77.030665
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "c9b16b9ea0e0a49b7db413ecf41a809d9b83a0e8",
+		"name": "Cafe Mozart",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 160,
+				"html_attributions": [],
+				"photo_reference": "CnRtAAAAlL-phpbzdgOKvH4lSlpe4azVOz1V77PF426_D6bO01UWvYBVFpd9jPMM3QjD_JfdvHsh7ofuZk3CN5Lm9Q4mSRFGDHor68UhQ-_VXfXtgQSqaG55AZzY8w_WR9lOsiqHtlJhg9jwOwA3gUIIr3Q4lhIQ0Uhxvjqx4asvKUjUwvJOjRoUI6mJXG-tPIdSUeFhk3TVAJ_OPts",
+				"width": 119
+			}
+		],
+		"price_level": 2,
+		"rating": 4,
+		"reference": "CnRpAAAA_9KfIRxbC4t6eutycgPdNe91cE4zHSSIeWlxAwPPb-FUvgCsAkRKhMXO3vDKlf7t3cTvGjkzBO3CYYTCX104XXSzHIMbUrryuDLkSlf35Hekih1Z0suYv6-ze_x0YOrv_vs_kCPxZWK-_wHyklOf6hIQhFba3AkhdlvLrYTp7GlOMBoUMy7CCN3kSJWHbyDN_uma8IUct_8",
+		"types": [
+			"store",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1331 H Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.906973,
+				"lng": -77.037889
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "fbb0672ce50b55626c5dc2220692fd6f84a38502",
+		"name": "Beacon Bar & Grill",
+		"price_level": 1,
+		"rating": 4.1,
+		"reference": "CnRvAAAAZvv6JJAgsCMyWXPbWWkNmvWAMfA9jq-S9y7hvitzhM4iKHYL0VhxWYPmdH9Dt4FC93vfX6RL_-I4_Ehv3aLnVAjtZHoQt3Q2yBXr6j_NJjlhjQsdKcIjzwTTjp1TlHQzaOrzeZZM89DmAzVJmZe78hIQl5TmmLQfLeIvzHFbGT-jUBoUTTGU1pXmdIDCoqMjRLEcv2-QlSg",
+		"types": [
+			"bar",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1615 Rhode Island Avenue Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.90296,
+				"lng": -77.035145
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "65098004100227e281c2726ee6bec40f9269a6b0",
+		"name": "Cosi",
+		"opening_hours": {
+			"open_now": true
+		},
+		"price_level": 1,
+		"rating": 2.6,
+		"reference": "CnRhAAAARqmsQia5DZZk85_ueRu_DLQslD8XhkDKmO51lKpZ8fiDxUQgv-guEwPOF3dVnXsn4ZOQUmsHvW6i7mbQHW0xjXP9XQYSVHWtIVUUzuKRgyQGg-IwWdkpQ3XPhHkEHUPrUIabVZABTEYdt9_2rq0T2hIQNmm0LLBEDEF85znwg87NrRoUmEuMj_y6RVwdg5dgBzIQj__yLu4",
+		"types": [
+			"meal_takeaway",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1501 K Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.900331,
+				"lng": -77.031287
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+		"id": "e1f3502570eb42b02b41eb9d628afb0171e6ee54",
+		"name": "Cosi",
+		"opening_hours": {
+			"open_now": true
+		},
+		"price_level": 1,
+		"rating": 4.1,
+		"reference": "CnRhAAAAnpzzyCtwnHYw2DUc79IggMoNdwTGHAUYnDF3USs0086nBB9tprh1hEQyk1wDxkBB7kAyNiR4KWMXSRhi9kIMwQiFoYzyViy5217yh02ZteSd0RE1GwOuv9QKhIrfxxaT3BhZHIbOt85Nd48bJ7W7gxIQxCWy4Ypu6ITUoSONoOhuhxoUM2-BD80IlolHSXLvSiNZag8rUIo",
+		"types": [
+			"meal_takeaway",
+			"cafe",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1333 H Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.902322,
+				"lng": -77.037833
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "d6267e425b9f652a0b180e6743dc8f6869b015d4",
+		"name": "McCormick & Schmick's",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 375,
+				"html_attributions": [],
+				"photo_reference": "CpQBhgAAABLRkSMqwksx31jp6aLl2n0qoiU_GQNGaka61OFeKjY0J5H9ejvMWtFNNbElM4kOe0UroCLY95wMEDDmEbl75qBXzQjHnQsfht44xcUDCbSjPZ0QP6aOn3_5zCOgwsyu9b5hsbNPUK9ru2r_wm64wSI93U48Xbv_9C2wrzhXRRTl_6MCwssRI9FhUjcYAOt50RIQIY1ediKKMpRthYUUr5SVUBoU_m0Z1OLr3Nu9xb897QbdsQpLtGs",
+				"width": 500
+			}
+		],
+		"price_level": 3,
+		"rating": 4.1,
+		"reference": "CoQBcgAAAGoRWPGV1t2pC9u3UVKl9H5wPsTidQBbvb0sGLqQ0GDZpvaE-N60ATyRGMW2P1A0rxJZzSHl8ZKBdx3LBl3jb7Cue3Xe4H1NdjnjUsX2ARQfaO8XOPD-W-QQb6FkNcnbMV8tEIGOh3F-V-Rmy6aTzL9LgcIn6pzjxKCkukfxww1tEhBOF8HDFgAYJjA_JijG0UtcGhQ2Ni0QD4Edzbz_-7EY3TY_SUrRTw",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1652 K Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.901924,
+				"lng": -77.032147
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "86696b90f519e1c9e26fc6a1fac4c7d99a849955",
+		"name": "The Park at Fourteenth",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 612,
+				"html_attributions": [
+					"From a Google User"
+				],
+				"photo_reference": "CoQBegAAAP3YX0cGbR6lmwQ-54EYUXrB_Hs7y6zcluf3gfff1UNSbwqWFLhp5E3a6cHniC78OxHBg2yGWVJ6tGjOd_glV7koZF1_6MfwDbr0whVekm1E2zXybdQfEgce7rWKMR3qcP2SQGSyCbkMVFrj_CYV6K29sxk8-BFqHGw4CmIzZeM-EhAdIZoxX2q72s-VnCzxjw5nGhQwJmRIxuJtC5GEfKsqPvXtSFKl0g",
+				"width": 612
+			}
+		],
+		"price_level": 2,
+		"rating": 3.9,
+		"reference": "CoQBdAAAALA0WjGriM-tvhDEiF--jW7HBfSoiYYEFJkdhHhocWMeu_ChRdWBXy9R6dsYKN8bXHi8IXiSBOF4pDThG7IWzEGzSsJAFKiMPn47xYrsWwTgJFnIzrefsFdzxI-psW1qspgTLzsVCCT1XoT4wKdmnx1hvlYFyd5FwhigcOpszZnuEhByB37qJ33MArnwmKclXVxUGhQVmj3TV6FeQo9Y0ad9Wp2OwR9iMQ",
+		"types": [
+			"night_club",
+			"bar",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "920 14th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.902744,
+				"lng": -77.032455
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "23cfbe4ae26daea80b26f07ad1dd727e11efb44b",
+		"name": "Lima",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 853,
+				"html_attributions": [],
+				"photo_reference": "CnRoAAAAgYM2MDJcAVIkjb7O4NtjCiQ9d5k91P6P1P9G7d_2hAuwqgvvN7xiOiDhx3OfbMpXQmuM4Q0uVoVgZx-xGQYWHTc_m0v5kIpxxBjp4JjWdlb7f9YoyfNS2xKAiumLTHdwRTktidLSLoJxXuiyNXtNwhIQBOntxYtx-6peVxZ3k0zRZRoUJ3yk5sljELGVHIFGmQgafF07Of4",
+				"width": 1280
+			}
+		],
+		"price_level": 1,
+		"rating": 3.9,
+		"reference": "CnRjAAAA8CUj9nHjTEb-n2-VegktfYx2F8JZ8-kMosANM8vs1YpgxD77hDNySto0zHNB32Er_N3hehdVajHtb06Xls57P9pprIo2hN0KSmh2rTSMfL-aEE_qHmJlNDYrxw-DaJ-SVgflZ5KFKmlSSMZr4iwenxIQjqdsHWgIIs8DwiP8hBACARoUCinCGYK6cPLRRskDob4J7HYjpOo",
+		"types": [
+			"night_club",
+			"bar",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1401 K Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.905063,
+				"lng": -77.031759
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "bfb0232e891f3a20dcbf88ca130c5f9e5a74c016",
+		"name": "Zentan",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 534,
+				"html_attributions": [],
+				"photo_reference": "CoQBdAAAANUvjihpjeoG7IGNm8mr4ltdZI_mcLIuPw72q3aIkQR6OasdQwGRTAjcmjkmgnhTVwR0mxVtpelTSWzQq584ULBkjIg7d_VUQHSdDKhdZcsfacipHjBvgK2PXE6_PHMq-dmYdNDBqfEhKgW2sejFcpWd5UxWq-oeqYinTDTp0BGHEhBAq6ZgKE02uvv3NT_NfxbXGhSVoE1TW9B2oPAvcqNfchBbv3WyjA",
+				"width": 800
+			}
+		],
+		"price_level": 3,
+		"rating": 4,
+		"reference": "CnRkAAAAqJvFA-uidpb-Piq1qcp-VN1WwrSNDRVO21ZA368Ystb9xMk6CCAYNbocM6cowtcxLkozsAIMM4SaqlbDfimcQsP2b9jG4krrFsFkPhKEszGDnLz6ZXiXmRqwshND1B9mjO-Jd41caanfDXDLSh4fbRIQf0YqApHmR8SvXcXR3bTkKBoU6T9_tFlTFliJna17cfLCesh9tPs",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "Donovan House, 1155 14th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.900588,
+				"lng": -77.033393
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "9d24b3b265711826ec8089998e63866e60f2a488",
+		"name": "Bobby Van's Steakhouse",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 853,
+				"html_attributions": [],
+				"photo_reference": "CoQBfAAAAMnzhoZD9j9rIDuBACjROAot0EcGAUKStvajUg5phFe_IJqEzkxsipRAUq6587aZSmCa7VNcOf535aPE1iwfMRtUb_SshMd-HaSuP4wvWpg1abu7TabTuN82F4_QI-pSVO7fRoQZzN2RAKo3RJvgQJbVt5XZ74FT8BET4faslm8CEhDOwTxS27QmG3A6Sga7c-RPGhQs4bRcCM1q-hizYQjoXE2R7gQRyg",
+				"width": 1280
+			}
+		],
+		"price_level": 3,
+		"rating": 4,
+		"reference": "CoQBdAAAAO-xr3U2zgBR-Mi3T6Rzj8lAjCoFiiUh7cp6Fm9JmeO9d8wH1RJgCesqu0dtZwjHsCWJIG0PmUoi49e8yDMj4rgjDxmzkIO7-peIaFRNKOlRnrZsD_h-T3uMBpQB4LRxbxZaq_dobkzdw0QDUPN1-9g5AzQz7TEWoUXZiVkvWwggEhBrUNmvw8VuLagL-hDE3N_bGhSdSZJPbvxP5ryxXawhcT748PRBlA",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "809 15th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.901107,
+				"lng": -77.031374
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "dde09ef237e654c642042910afea2cf60046f308",
+		"name": "Tuscana West",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 400,
+				"html_attributions": [],
+				"photo_reference": "CnRvAAAA9xe3cVTgSuhrxJF6YtagIAZ2mCbq6OBjDcckkDqf3fROP44QVDayTpOvvyuYwoj55QwnWEr-Ta3W2TYKZk7SM8p5NxF3BCXcWanXyIdSI_WlD9G658u5uGZra8qLopJW9gaatmqa4Rdn3odk47w8rBIQm0gJD68-4lONmCrbAJuSCxoUD7hLdzCnu6Sx_twt7KtQtw3dg9k",
+				"width": 600
+			}
+		],
+		"price_level": 2,
+		"rating": 3.9,
+		"reference": "CnRqAAAAqsIQgVuiT0Lydarbwt3UogzyDRWCWFMWVkGkL7dhuHOwzjZIt9quWTkZC8YZ_sEaBMmuLEUtl8NQMF2ZjWUIarkvpJCFgmGu_LsBHEqwkVKKm-8CgzCwA2FfuV8LvpYEzLIPpAIy_LZxPbK6eTP5vhIQhAlcj1g8QhjS93SI9Sp8BhoU1cokts-8aCcZ4NsfqLhes0O2hWc",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1350 I Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.904034,
+				"lng": -77.03154
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "c947816af084b75547d73608080a27bf5e2eaeb5",
+		"name": "City Buffet Restaurant",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 816,
+				"html_attributions": [
+					"From a Google User"
+				],
+				"photo_reference": "CoQBeAAAAL-nvDplSxIdvMW4mjqzChQeyGw6v7e5D5xmkTTkeYMoUv07yX6YHrscMcd-qT6xwER9rv8qkkv25FR_A3RkrIQgsZ4W68AnwsNghQ9WGDwSbv8C5bu0UKnjl3JiKClioT4A-2kB2j-5f7Jj38V3RmdXELHr5idTrjv4rAvYnISEEhA57q0ioQP2yi_3h0Dx97gAGhQpBDu1f80inbIdE2_mGk6_B_tnYw",
+				"width": 488
+			}
+		],
+		"price_level": 2,
+		"rating": 3.6,
+		"reference": "CoQBdQAAAFTTbw7jGYaEW21rsn0B3vNPId6fZHGX4kpxmkoNgkCw8psZwgLQvrM-m1-yAWrzeLYQ7jq83z7ZZUpjPVDUcw4O0C6YdC7o7SdtvPcyS5kGRp9n3Emk5EsAoZJi-tGTHFEHcuJTSEtGOewtE4wI8btQ1fTRRbPiyF38D0ea96w8EhDU6mFJSQY66te4fc4O49ypGhRGQXb7cjArz5783AE5u_6ZpoQmrA",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1101 14th St N, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.90815,
+				"lng": -77.032139
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "a7d2c594ab9e4ab91ae0f31d24fad77aceac7055",
+		"name": "Tsunami Sushi & Lounge",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 270,
+				"html_attributions": [],
+				"photo_reference": "CnRnAAAANEUYH-a1TQfSVuZlGb_KToxjdUnbp8mEYedtJU4pxSY0Optk-tA3qcpeGjOujAKwBSKcaUANxenQowzg3DLwmjcWJXQW5Hb_cIrE7o-9kuOnK7s1a9cLhWHHDyAjTANHZf4Esd8rfPKVEL9rJPwgThIQ6K2l1W8Z-eabzGwXTlayGxoUlhQIWQX1VNOXlbzpUMCAdiSZKZM",
+				"width": 278
+			}
+		],
+		"price_level": 2,
+		"rating": 3.9,
+		"reference": "CoQBdAAAAKMTRBTg7bcK08BacNcJ1bPWGt8GSVzEdbRZV5x9HMbVXVtlOPRI930z0EhP-frUMvMxO8dErNAE2xfFqBSR62CbCDDfldEahXQ6XkWU_JOn68MpBRJDpgZm86VXDMYXsfnRH4UFpqoaGd9QESg4UEnz1OwWMcFRZRmH1SrwGjhKEhBuOV5nlDKui4jwXn5VpW3xGhQrZXUxZ0mKdqGVrlzicBOC-rOoAw",
+		"types": [
+			"night_club",
+			"bar",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1326 14th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.900508,
+				"lng": -77.036789
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "893539b4958cc715ca3034dd4198048d991ed421",
+		"name": "The Lafayette",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 300,
+				"html_attributions": [],
+				"photo_reference": "CnRwAAAAY3M_EIHufsDVA6q9KfmpNci7y5r94l8JfAdYWHQHB1_p7ku9g2kiZ4w3fFQKwNhgdQvsgTpvKclm9uxCaLUOsx-1r7uNhI5QuqZnNfldi35TMG_AcqCEt4l5YTvFGNSuP-sZLSq66CpWrUGXf84N_hIQr-o1slnBGLOz8j9gYea_8RoUxhAKtDUpepl3ggJI1Af2XIRBVvg",
+				"width": 583
+			}
+		],
+		"price_level": 4,
+		"rating": 4.5,
+		"reference": "CnRrAAAAvj_mJV14A-oz1fcYYnZSrApdzDHgTE54G6wvNk6KMFxDaG086goOIrfDMV0jeYO2XaMtshi-zM4urxHsnh_XUuDc54Ggx-hf3OK1EaJtgZn1WXyRMyqDXuDNqNspFGZZT1DC-Hj-8Ris2sirvvLFNhIQV08_WRa6GtITWfk94Mf68RoUH728nzMs3z39R129W9ZAiIL78BE",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "800 16th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.901811,
+				"lng": -77.033319
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "8fa168f5728e1a98d07533d97f5a1c5fa09743fa",
+		"name": "Siroc Restaurant",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 853,
+				"html_attributions": [],
+				"photo_reference": "CnRjAAAAOLr75JGg7pZ_4t39c6VcrACEomQ6l14UqVif41NdBQM7xerWXCh63CRXaY1LNsg20FFvHNbDgN2CrzqJza5FWaEMv5BeX9F1x7nTJGtftz9nqNlE2FaIrFXyHQrzEwBliWRU0axrTQVbYBYgiqoh_BIQ07qT-9nGs7H2XUI97G3fkxoUVJU7aEXc0UMx-qZl93SUCFTJ29M",
+				"width": 1280
+			}
+		],
+		"price_level": 3,
+		"rating": 4.3,
+		"reference": "CnRvAAAACNeuXiN3gzDGQ0oxoDS5sxNlYe4siXFsjUc9Z3JbWZHJ6s4CnyoT8Dn8nrDH7XqK_2v7U2HtmdPVUpWicsBliUbtuHsUIIPoniYF3iaHoTqTpG0YFBAuujab8ApAdZ87St--hVGUBpK7XE7uSVHI2hIQVZSDuZoqf_ZwCrbC0EoH0BoU6tJ1CPdnZ85Frnz1Rfy_bHPrrMg",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "915 15th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.902721,
+				"lng": -77.032401
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "2c6f6971d58b59975b9d65bff1b6852d14df2e4c",
+		"name": "Fujimar",
+		"opening_hours": {
+			"open_now": false
+		},
+		"price_level": 2,
+		"rating": 4.2,
+		"reference": "CnRlAAAA953tBSBy1LsSZX-DQ8rlk0LdFoZMkKGwP0_qDSZePUx-yiQYgDsdWZRiEROPJDqroausQt1oEytfjHATIQOdB2LF3imHgw2O4emekMemU3zf1g7epHKXd8BSwa0bhmd6Ycy9xvqU1V7VPpcJ4tW8SRIQT_wQJcnSsPFh8w7oduMPVBoUnMdKiak-Sr0tyyII6Hp_PSB43oI",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1401 K Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.904065,
+				"lng": -77.033128
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "62ee2b27c8596df367237fdcbbf3412beaf0cbc2",
+		"name": "Mio",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 853,
+				"html_attributions": [],
+				"photo_reference": "CnRhAAAAO4I5of7kMwAJpd6Z6XE4ihCPmjyaVoqVPrxTT4ELiDBkA90gY9qI_5vR7qNO7GZ6mMg1bDe5HBb124UgFrggjs7pcAvICR4Dc9e5BESilpjgupPXWBGossdl7ubGvj9bspNj6mfHUtn5s1kjPTImDhIQTDhybUFhIjUS9Lby1D2yvxoU3BatsJ3cXOPlI386hA03ytFZ9Zw",
+				"width": 1280
+			}
+		],
+		"price_level": 2,
+		"rating": 4.2,
+		"reference": "CnRiAAAAC-lL4dbqgx1NwvLuDdzjkoVBYcr0xDfYmn1WwLsiEuC2M7x85TXeZ6fORKdv_db_t7UFksTSkh2_dBun-59fXQ3H6nAxx9h_royFVf-mRD5mA-5_hI_F-hhrI-nJbQWKC0cZly4sR1nK2oKegFseDBIQUsUaAvg7NlquvfYpvme2txoUDMzTAXrRSWGGudMBNQOeHUEag1A",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1110 Vermont Avenue Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.90483,
+				"lng": -77.039561
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "0274047d2ebbe4aa042fa69a7ae1d3121f29681f",
+		"name": "Panache",
+		"opening_hours": {
+			"open_now": false
+		},
+		"price_level": 3,
+		"rating": 3.9,
+		"reference": "CnRmAAAAq1vLULsnAbGD31oMZdv3U8ZSN1iXj4NmYTgZdXOdZ1RL1GXVMzskgCRXLWaA0OkXWeOewwLy11ORaIhUbd79fTMVtmxVKcbXAd8OpK1IDzD0dOuMmgdqVRe2k7e-xENei1-OYakPjVHjQZkorLRhqxIQdBO0ci0v3UvrgqPQsNhcehoUUDrQEWqh_K0gsUI9PUv_JrXRAXs",
+		"types": [
+			"bar",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1725 Desales Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.903533,
+				"lng": -77.032778
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "83a4abd5f805c971bb9f12fb61057eb7f803305a",
+		"name": "Stan's Restaurant",
+		"photos": [
+			{
+				"height": 1280,
+				"html_attributions": [],
+				"photo_reference": "CoQBdQAAAIfOiJY41TSsfIel8FPe7BWnICckaVJKb5eJE-21gjN_ZVyLxo-ZupODLFdyMEoK170gYI8sNWiVh4XzongEgQ9DKW6JujVkVV7Hpvu1O_e5GDZgvAjz5-VFQkmJ3SeGtPj5qZgnUcWzEwDI1vzirMGJOaoPSkiU_c4X4iJ6zPVtEhAqAgmYCzpN6Uaquy_odPCEGhTeNDt1BC4LeRF88BQnF9Q-QSmDLQ",
+				"width": 853
+			}
+		],
+		"price_level": 2,
+		"rating": 4,
+		"reference": "CnRwAAAAAHG33zuyXC-8jbmQukNG-bIGlqL004bfslohHObvEVs5qfXc5OGzXF2Dr3KGWxuv5PnbuYT2vC4GQLeOAAy4ZfxwNJyYpTL06gFOt1yo4DosU8vq24fAZzjm1nxoj1434Yq7jYvWxbw5ct-XOyunqRIQ6iI6mG5TEY2dE7_bd188JxoUi43gfYoZh20DR7kIjUZ3yzjonAc",
+		"types": [
+			"night_club",
+			"bar",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1029 Vermont Avenue Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.903316,
+				"lng": -77.033062
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "2f80e655cd870d85ecdca2c1e4ee85abd61205ec",
+		"name": "Juice Joint Café",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 853,
+				"html_attributions": [],
+				"photo_reference": "CoQBewAAAGKr5ulqzBrSMXwWApoMWO3UgpC1c_A0yT2VYe4VC65ZdCGx-khpAqxozuNrIAigVWu0KcK82CGxSqOMst9c7Afw7tNDFBsXkRIjxqivvrj1I6UpRTUMQfjl6q43P4jNTRBtW5Rli2aCZP7ZJ13gXp5d74r3u1bVaabF5UDx3FmOEhBMTsIHaRZYaaVMRkHHl2_MGhSeHPrqEKNY_78aW-XC8t0mU7eRGA",
+				"width": 1280
+			}
+		],
+		"price_level": 1,
+		"rating": 4,
+		"reference": "CnRvAAAAe0Wd5Xbz6J_7S061Jx9PPHoyU6BsDohb1Rr-ksBZsneXX07pvYbmUXdTHt09ABawF38IDR21KY-pZi4khchdo0KdqRihqlaOYn06r60j72B1qjlEYDV0bFdQMRFKBGjWnpOqfSgnzfhGcpPdl5BfNhIQLEan1Ozv1RACm4NLVU2olhoUqPdwMFGuVMbVqpXSYLGvUegVrVY",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1025 Vermont Avenue Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.901008,
+				"lng": -77.039264
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "e169f8b3f983ed49889e7077ad5478262bdeb7db",
+		"name": "Cafe Soleil",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 853,
+				"html_attributions": [],
+				"photo_reference": "CnRrAAAAAvw7FEhp0K42n__MxZhpH8ZWDR-2QTWNYw6Em6ozWAM-wQOVfn3HHMMX_XSwSmgF8Uo5gnEBBnWE9hCAw4nWVx4BXcIrVV3erGHHCGAJYi076ySG1GV2e2PC6tS_zhnoHu90UW7DO6ne9JxZBreMABIQ6d92h-JyYKx764i5CZCqBhoU1ThIqlGO65V3ZMvdWIjX2RUyEdQ",
+				"width": 1280
+			}
+		],
+		"price_level": 2,
+		"rating": 3.8,
+		"reference": "CnRpAAAA-X7oH6Z7ssZggpbKOfH_oCV9nfEPA4ie-vJw3jD1tSvR5XLdRu47cDBFE0pbv83XM042voMuv0B_EQoOnFJZ-hqkjuY_a7OVumlmi2_mJdvbwO3mehc_uolXDj2oKGUINMSe89_xtejeNgGXFgb4qRIQlehonfX0MVVp6Cor_IYXCBoUZ0jN1lFDnc5-yeo5YSslXmdiGpU",
+		"types": [
+			"night_club",
+			"bar",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "839 17th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.901102,
+				"lng": -77.030296
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+		"id": "f505f0a1c5cbbc32d586791e7fd13fcd63db430a",
+		"name": "Solar Cafe",
+		"price_level": 1,
+		"rating": 3.5,
+		"reference": "CnRpAAAAV_mOtQON0U8S5E8b8kh11jPDxWF7TVsKFN3rZSJv7MrgMc2I5Uc3dRGV0JC4F6oO_jsT8KS8rcQf63vMqRpXIAmdhObwC0IZxGeySEZP358UamQwzUn5YmZ5LsAzgErptN9R5Y03OaT9dVoV934eMBIQKhB4CPA_06qkBsti00yCiBoUKjv3o6ppIIJeb7oFNShN_Oi_t-U",
+		"types": [
+			"cafe",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1300 I St NW # 1, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.908031,
+				"lng": -77.031775
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "6ff32802691b7dfe6efc7d0973a36614858c726c",
+		"name": "Teak Wood",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 1536,
+				"html_attributions": [
+					"From a Google User"
+				],
+				"photo_reference": "CpQBhgAAACCBkHH1Z9Mkf0mxLJk-0pqOVzXOSTu3IpE49YOSkHKeplHuId1GeUhB8SpR3m4a7Bj7jbW1Xl6cV0QzoCXsuHc2mIngAaZ1S4abExD6SgBHNmTDOJKZ77LjC2oUOsnJlQHL03NAsaJYPmTKpc9-IZdHJtE5Ug28kmpctw5xpavqKSwIY-LRrLP18fMq1VZr5xIQg7b7ILKsMD1cctB9HVc2nRoUtmlxi4IGmCAp3Jn4U30s434tlwA",
+				"width": 2048
+			}
+		],
+		"price_level": 2,
+		"rating": 4,
+		"reference": "CnRoAAAA5QHPix2GuZc9Q1Ncd5OV8mxiHjN-FowuD4VVkmcFhF93WyCtTBpRwcNNgHiko73KFqhC805RPaXHOmRtObbeXHA1zgn6EFcpOnteCM5tmu7c05BqEVsRmykrMxx1i0EvtpYaFmAP3LMdlu78aH359RIQXsPpq5-WhLs_SgVJTyRsuBoUcYcQUF2PhDYVoFJ_AQhhOgH9fwg",
+		"types": [
+			"bar",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1323 14th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.903616,
+				"lng": -77.034034
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+		"id": "e7c5c39f1034fc528f5fc35b18e5a4dbd2b6b542",
+		"name": "Post Pub Inc",
+		"photos": [
+			{
+				"height": 853,
+				"html_attributions": [],
+				"photo_reference": "CnRuAAAAwlRaUa_JPsKIDG1N3apWxWiugNzm5i8EB-6Wyxnx-Hb5c6NU4kUdL8vD4ySnozAmbXkySXyPK0mVntrQ0wtt65hqdMLfz44fu33PmHHB4WrSuSpxs4Tu2_t1tdw_zL0XAPSN-jFlkvCkFYZgAqmx8hIQrqvbAxqcGLwf2YkFIzc0TBoUAZ6jXYUW1LNTc5QffhTAscUlPBo",
+				"width": 1280
+			}
+		],
+		"price_level": 1,
+		"rating": 3.6,
+		"reference": "CnRqAAAA1PLP1vTsiry4zGIv0NsXACzo-0FtsQLm49oW_fZ9uYl01r3ePn2gRqDDUreRqbOgNeN-JqsHRmM-eW41XmyJkew7lWzWoyCvRYzo9BlyWIxgSNuriLyZStNTJ-fYg1hN3IxuZkE7KXE2mAOQO9gPKxIQDydUvvWBunXCu2e-Z0I0yhoUK4IF5o3124km37Pgo2p0wQMtnec",
+		"types": [
+			"bar",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1422 L Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.902155,
+				"lng": -77.036087
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "a8fa706710629e29f012e33aa0495d705abaf715",
+		"name": "Adour at the St. Regis Washington, D.C.",
+		"opening_hours": {
+			"open_now": true
+		},
+		"price_level": 4,
+		"rating": 4.5,
+		"reference": "CpQBhgAAAOJBMWNsx3NsZ86T-8143issgDZiKL4DlafxtEq9kNvgEsDiwzN5fhhqr6Pu7W7GgmUCv3Ekab9A_v_xM4bw2rApDFW4iPAXK6O6NfRQaM6eSb82VspAiVfINf6Yt_YEtLsZoKTANVvaxOGFH-a0biYKoUjUxiFFV899qAWwerSfcKkpp0PcqhNjW9LXSkJZIBIQQ8F9Q4nydWcmX8dQgequhBoU6y7FmMM9Z8gZuOSmAu_eYndx43M",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "923 16th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.908405,
+				"lng": -77.03214
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "2b4a5a4f564e1aa0ac3dd707f1626365acdd695e",
+		"name": "Ghana Cafe",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 405,
+				"html_attributions": [],
+				"photo_reference": "CnRtAAAAuEV4OmDrcAvs1cv583IsAO3BFRYGo8vDbIADo8Gzb2pkRtw79xj9G-ZFbFv7KQubPpADPo0-iGXsYWObEVAYsusuViYq0oJKWoM16SFGTSHXzH985SCBKnaBUIYiMx01fG4ndo7oYyT1NsnZTxtgYBIQGPGLER4hU0rV9SKyPQgWHRoUGmEaxPFPHMCai6PpJmLh5Vc-v_c",
+				"width": 313
+			}
+		],
+		"price_level": 2,
+		"rating": 3.8,
+		"reference": "CnRpAAAAeDFgE5tFG1ZA3k_QvVpNQXfh_k0G8wrPOySkk_1JO8cLyGWWb3--Qu4SXAeZUD7d44PUMWcQq8_2Xg2BAhdnWCfGUcGr7yuhnNjndTlQpTcnMsCEWzJWBNYJxZ_2T_y7v3RS1HfBd4jsoBNOb0QGjhIQ9z9oRII9xeTPOr5JU_FYJxoUHJNCyrmkXgIKH6xM21oHP0eUy_U",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1336 14th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.907902,
+				"lng": -77.03215
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "3f2223c86a9f3d3dc8cf8ca05377ff9e62096d92",
+		"name": "the pig",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 779,
+				"html_attributions": [],
+				"photo_reference": "CnRnAAAAqVRZa_2qncyw9BR_ZP7VFfa6kXrJ6H35z1k4ZE5iDM2drE_I_DWG6EzbyjmQ3bF3bkiZ64NWuTsWYZhksfL1ANjYz2n4a-JNQRTtWTto9BwaPoxZk0tsuN_K1NHy-PES6UHrwZNCJcpJOszv-p9rmBIQd6sNEV9AjKFf-2s_-_nw1hoUgovkea5vfxEM_uJGBHJsJoJ-R14",
+				"width": 865
+			}
+		],
+		"price_level": 2,
+		"rating": 4.3,
+		"reference": "CnRlAAAAQCBdghECf6rhKgp_8zzea03_peXcc6r4dqvLpcHl5itDp1YufOaccYa7qgOHvrY0501PRGyIrfLqiVVDQ2LuyTFU7LYBykb3QhtGpQJ1GIHL332SI6-rmxpgJuZ3K-Y64GZWIDThz5ugKltAsJy40BIQ9LXPsb3zv6wZfgkGoPnUJhoUuj0QioZKRnR9DDwmn7IiO6BmCUo",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1320 14th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.900471,
+				"lng": -77.029391
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "eb82642ec20974e8f89012c235d050a651ced10c",
+		"name": "McDonald's",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 728,
+				"html_attributions": [
+					"From a Google User"
+				],
+				"photo_reference": "CnRkAAAA7NdEMS5DjI4fyOz6P_kNcmYgWfEugM-PqM8ykHBI--N-jScRLQTgH1ddz6uf-Hxw5a3c-2f25k1EVj-SyW50k5eL7cgBad2BjQPDJ-bMspNDOIEB7WSezV97xbYE9nGDjQhlv5LIxtnNJeC99j4QuBIQvcOknidlNdfp1vrBfW9RpBoUGXmbh9bKmCKWJFSwZM_0pMDl4vQ",
+				"width": 1296
+			}
+		],
+		"price_level": 1,
+		"reference": "CnRoAAAAKrhcaFE-RtJPPLCX5sCNtcbsdbEIihxPVjPltMaj9R-6YjOR1KX-je7F6_5P0wVSIcyUO87WODNOYeQrfU1fC-x5oVKt4Zb8HlNkK1GxsITf_U6-aBuAVEJibs7Lm1KvE4L58Vd1D053bAB-5SeObRIQ1EXPwiLU5j_YqxkqXcQiWxoUlsdhbu25WQ91Jg0NUXVsWR6yJKY",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1235 New York Avenue Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.901203,
+				"lng": -77.032359
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "2cea40a5d41343207da8d63107ef2563c8915e51",
+		"name": "Five Guys Burgers & Fries",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 250,
+				"html_attributions": [],
+				"photo_reference": "CpQBhAAAADaJfEPCMpyfxKjXhVHWxUNcFvjNnvJGp2x0ZB9zzP6_LYMi7KiQ5LnDELAr-zw9vn60GtrS_rgOtn7v941yUppBo5_JqP13DGyCY8gObmlS-SMmTVzjE6L-AjhTN7hbDfNwJdav92evfZmCHB8PLWNXw53pDvv5HTgb3dEo6ASl8kiBD_d3DtDGjDoErs8luxIQfKPGz9rhhl9exyvLDkk4txoUmaINbtuZwLmqjUgSMQfi08nbWOQ",
+				"width": 250
+			}
+		],
+		"price_level": 1,
+		"rating": 3.7,
+		"reference": "CoQBdgAAAJ5jiNpn0MoBFO5uOkF20qPE66BpHuEDocXN5RTk_7p-TQJh5YPu5CPYDOzNHEinl4kgqQXyGi-SeIDdZZ9UjasXuUOm4Ki6NsrqUwumnxQrANiG3nTfXjvuoT_FTVymxMJSRbKg3tZoBT5Hns6Wh94I-EsU-T1vT4uqs6JFdXe7EhCLS7oAfchKFYTakKQb1ZwXGhSnNXXAp48d58uOcCGmR3l9fNk83A",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1400 I Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.902823,
+				"lng": -77.031534
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "be6b6bacb8fe913c9de18615f6638dfc6be29ddd",
+		"name": "14K Restaurant",
+		"opening_hours": {
+			"open_now": true
+		},
+		"price_level": 2,
+		"rating": 4,
+		"reference": "CnRrAAAAbr08cvLP520Z9C_BryKjOoXg0OSisN6qRN9sGPLOmA4MrvNy0EhDkfSu6TKDm2IPHaz3dlHfQq8a-zZjhQxuUISjz3SSWR-wnBzX1NlcHcBK-FEwcF5XTtSz__k0Y-YfdFfzavI0aMvldLGuzh4tOhIQBnBvnkYi7CwwLQIaNsI62BoUUk62HxQnt7hKcC_q3vZV_lagGzg",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1001 14th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.903159,
+				"lng": -77.033663
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "b986b6659f151afca38f18b7e1b6b9e8fb4a7701",
+		"name": "Casa Blanca Restaurant",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 853,
+				"html_attributions": [],
+				"photo_reference": "CoQBeAAAAN7nHtiHQ8un95rxHIK8DkD5SjALEdIpfPJT2pBeuftMeTKjHEO2RVpLgwmYFZeQ1g-bqBkKAaC6NLigfT-kEmSfn7keXTnfheZFZH4nc-MCJSgChs3kx-Z_DjEXH4XxxTuhnEa8wMyyfrJ2PY9kDoS3byNQP6J0PMVZ1P507LdSEhCfY_elL7lEm666hypAxX9BGhSoCl343JAr8yoCjdjITbcC2veZPw",
+				"width": 1280
+			}
+		],
+		"price_level": 2,
+		"rating": 3.7,
+		"reference": "CoQBcwAAAAo7Ql3jDIjv0rGQefaW7lNEvPBIb_aURK4EI53zx2S2jhHZ7g5xtmT8_M2_2unT8DollADY9e3MhYYdB9EsvLL1oY1_gz5nzsJ67Op7rReyj0tEfrAv1rkGrCnpfbOJOiDmy6vjJ3SZmFmQjaMG82oBZ_G2H-UTQXEgjYNypzOgEhAyVGPZ1_IjOIUYaHc_jq8rGhSmmypfJpS4l0GDM61c5PJB7hVDgw",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1014 Vermont Avenue Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.901088,
+				"lng": -77.040029
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "85749c7df0569208005bdeacc5334ad50391d24f",
+		"name": "Wicked Waffle",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 960,
+				"html_attributions": [
+					"From a Google User"
+				],
+				"photo_reference": "CnRoAAAAvbVbIaZn9zWFi6UkxHBPSlWCujqN5g2787EngFGz0O6_IKB60n5sYPgkz5oapW8vU-oF0fbIghRgiB0d0kxZ5bRz4dXlUdnswXMstsOUqQh7aavkoAmRLPDxQpRVCgzcA_P34osKWpKah6bzBJx9mBIQprsmhfBt8IOyMXlwo6fxKxoU-GiDdjP3USkVkKmTtY0x4UkIN8w",
+				"width": 1280
+			}
+		],
+		"price_level": 1,
+		"reference": "CnRrAAAAtr0TXSHAGwpRbEBqtLbFIrhqqs_vmHZDsFf5SFB0ZdUyHYQe_W0nzUeCpCUARMfFBOuVNOXMqHtB_ZhgLD92_G1lO2rITiRRF05N0MB_phqpUpHpMg9InrmnjCYSuUtKL3mJzlv35Kx_RqcP9FaXphIQ1stP1V95svKbxpL2pvPpjhoUuObA08Z6VctjXfuwCbNoS9YvL5U",
+		"types": [
+			"meal_takeaway",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1712 I Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.903617,
+				"lng": -77.038923
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "5cd83d93079338a2f3bc95713acf57d7a213b9c5",
+		"name": "Naan & Beyond",
+		"opening_hours": {
+			"open_now": false
+		},
+		"price_level": 2,
+		"rating": 3.4,
+		"reference": "CnRrAAAAkLRHM8wFyQebLDYMjCVZi7Oy5sdBZYgj-E26olT3caaLbOpb1BEDTam3ygb-t_rmfkB5Zztgy5nmlcghIglMiVCMNhHVUrYV-TeKJz9CVEFd_N-DIjS8-iqkyaqi4HuUesuZv8inFrdm9HTsPKH6ShIQ9rpPvYx_29_ERGBG3w4yjxoU2nCAUq0romfplLqcvps4vZKcw9o",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1710 L Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.902315,
+				"lng": -77.03716
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "d91d85df2784e1adf4198d4213cd9a6c2c7348ae",
+		"name": "Fuel Pizza & Wings",
+		"photos": [
+			{
+				"height": 920,
+				"html_attributions": [
+					"From a Google User"
+				],
+				"photo_reference": "CnRoAAAAsnQvOsBlCgiyExLBAPISDCyDAfLz9g1J22VIgZOFghntJC8XYrwLs2fnCu01Kxr6O5e5MhBiR3hTvF_0549F8oDP4e5xQYx6b8SycVxcLmXk7QBaFJFymvrVoff9E7SKnfgjlEhqJ6huoBc7gMLsOxIQ79bpl6t-Jdm4Lr1cnSHMTBoUVaonFaqrxhazwecChLKss9kQtZU",
+				"width": 1632
+			}
+		],
+		"price_level": 1,
+		"rating": 3.9,
+		"reference": "CnRwAAAAP7VQNGBEg9BCBIpXdx_esWwJe1PSh_ZjGLsCwv0dc2rT1y9l0PUzkQocsM7ktwL6K65dpSe0vk3RoJKTm_9x-yDXIeDFK2QWAnZFazXRqWbWSVVmmcz5GyCFH4V_2jlg3faQ2eWEQOL0Sb57ihUzYRIQ6yF7GQ8crwndHn35NIY6HxoUzJ3f7p2pz4MukOmwJ0U0_YeoUjQ",
+		"types": [
+			"restaurant",
+			"meal_delivery",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1606 K Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.900934,
+				"lng": -77.039895
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "fafaf0b1e8a91f01fdda684f969e0fb892f789ed",
+		"name": "Kellari Taverna",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 151,
+				"html_attributions": [],
+				"photo_reference": "CoQBcgAAAFjIXbVU-9DL0pRbk3b9Z_bTSvK921QmqpQbea1V49AIMm6_HwRsvNVFq9luDgA9MB0ZOqVzu2rdjgcBpvcq-a6N0yKl8AztwBbrmMVS9Ln2oSf_6K97Wj6jWRhg3mOPBF_Yz3bvPkMxfJd-6wBIdo_QG-qUNhpNtXdO8_Zx6tT5EhDVkmNl6uhsMRcV5cAhebGbGhS2BWjsVjqGxmboF5pPr0-tN91urQ",
+				"width": 226
+			}
+		],
+		"price_level": 3,
+		"rating": 4.2,
+		"reference": "CnRsAAAAZcR79fqwOdMcCvjyhEb-w9JxUdsE3OEBtO9cO_pC7crQBpJAmaQhWGyAHhqOqmXjUAaoGIstsf-CFmaotmLloeejZy7b304WiS2vkW-UjNtppU3zylLMWmPQ0c-qIT_IJvAVTp2zz9H10-eyfwuq4BIQsNmvIchDtqBw0Mqddmma6xoUS6_NgldqPheL8dIsH8D648miV3g",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.905994,
+				"lng": -77.036973
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "a87c0dfe0a4c56e490e9eea4b55854becb2efaa6",
+		"name": "Plume",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 934,
+				"html_attributions": [],
+				"photo_reference": "CnRqAAAAWY-pUZslhfy3n2mM3nETNklD_XI7LdSyiPFGGWC5utQFNu11_a3gvFOT9PlEKuwR_8gI28jx4ny6DVlToHfKfA6Q1WfBCizNU_1GTsDKUYzMIYKPUNRqDa7WOLKZHkdtUWL7S2FX2DAuCIv_lGMGUBIQEHY1tRkEAR90KA1hhXmDghoU3rNbF1t25dwm64JIAopFi7iIIrE",
+				"width": 1400
+			}
+		],
+		"price_level": 4,
+		"rating": 4.8,
+		"reference": "CnRjAAAAzUn6gPyBajrw2GR2A-ooL_x7b8QZif-6mvByFCcbs6KBDzZEZrBzie1ZtudnsJC_MmFFVqO10UQX94VIV06UUQqI7sIESWjbipGXEPeCUJIo8zGTvYFHmFMwPgY7kg4w-o9tbFL4CUtd15JsNK2L9xIQ1VdOItYQLLSaBYAmh1CnWxoU_iZ8VYRMo9T0sp9FDflb4Zcs2VU",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1200 16th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.901457,
+				"lng": -77.032413
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "f54f35fe8b284fc51e0ba8e924f241fd70187978",
+		"name": "Au Bon Pain",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 1632,
+				"html_attributions": [
+					"From a Google User"
+				],
+				"photo_reference": "CnRoAAAACPFpq6es6398qie8YqJV6g-zUaud5J9429axKU3YyYWrccWmSyZgWInFVChqV8b-fW5ZxqRyOqoVbEtQ-hRsSPwgVZy2teBlEUKtS6CW63-I0tSN6T8G8dHiSXYljrakJ0JLLf3oMzV_-Oz65VR45hIQhdLm1b5aLyPLGLz92dwJLxoU8KwQh0JAxDzd9m5xQMZMd_zMhNE",
+				"width": 1224
+			}
+		],
+		"price_level": 1,
+		"rating": 3.4,
+		"reference": "CnRpAAAAS-XPVDFqMsr_tyymJd12m1VCldSbm1zHCZzcuP2gNlW_YEYBrFAxqVf30g0dN3iLFpxZmnge_xOGOzSAU5-V1c1Vdyn0b2PYfre2l9letRpjcu_Tpw9aq0evKsFFqnpIolVvvIk23qxss_8Jv1GL5RIQld3IniaVk9t86OxbP1Wz3xoUiug9reBgvOxPEQbvxY3g84c-t44",
+		"types": [
+			"bakery",
+			"store",
+			"meal_takeaway",
+			"cafe",
+			"restaurant",
+			"establishment",
+			"food"
+		],
+		"vicinity": "1401 I Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.902314,
+				"lng": -77.036869
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "49b9bb8a20f7d1ed7dfad97d621b86a730515914",
+		"name": "Sidecar at P.J. Clarke's DC",
+		"opening_hours": {
+			"open_now": false
+		},
+		"price_level": 2,
+		"rating": 4,
+		"reference": "CoQBeQAAANeJADxNOs4ywBt6o9vaHbraVlEoAYXQ5G3FVy18yCb0jjVkAEWpahh4Ce_sSr35jE7B-xl7i10IFgDZkmbJzKu1NIuriq0JMHe8GycUWzd-T40-SBvVzuIKc4VLhqvWd1PtlxHM187oH-sjRaLJ0dLnp1zIwUZwNvuQcS08K-L7EhBzTmp8wNvWSVvOgq9hyapXGhR8A-iR6ipDE-vUxaSL1yYdT1Uk1A",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1600 K Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.903856,
+				"lng": -77.037561
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "fd4ffc4014bc97634277533731e64624412a6915",
+		"name": "Market To Market",
+		"opening_hours": {
+			"open_now": true
+		},
+		"reference": "CnRtAAAA2qWOiQ_iV0RaXqQAEvLI47J7AH4WHqJDOdWmyBeinIr5H4D0PfPjsC1eLK7drj-by5IKL78mY9ewtNuv6284hXTPQLX-UNFFhQlcby6ZqcWoqpGxzvMfmlKxSKTt8yQkKaTV27d5BiRTKitnFhJNwhIQd07bsM_F58k1QnfAKegiTBoUk-h_EmBIxwZXHDKuKflILWoiY14",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1615 L Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.902724,
+				"lng": -77.032599
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "330f18e1c45dcf657a21c43f24b59a0abf668855",
+		"name": "Bangkok One Thai Restaurant",
+		"opening_hours": {
+			"open_now": false
+		},
+		"photos": [
+			{
+				"height": 1280,
+				"html_attributions": [],
+				"photo_reference": "CoQBfwAAANqUkYtrbHnImzdT5ouQHYmAFZ2SfbSmiofxHduWhBveW7lz9CfUGnYpRWyUCW4AX0bJTvIN_YYfO7pGxrWwIlaIFw9WR_pTcib5ma9eE_MwwV6jxOKDBbGVn8WaaBu7EqyNqSpQDyxmxO5JxNAtpcRG6gGzIAicaMU1oydYH7kBEhDfvzja4tkPiTJ2LSNvLHTgGhQjQ6VU_P22iNM_dgq96uOogLLxrw",
+				"width": 853
+			}
+		],
+		"price_level": 2,
+		"rating": 3.8,
+		"reference": "CoQBeAAAAIyST7mI7bGHDD4jPJ5x3l3K6EjFBApiL_F9cKRR-CmBNCbJ8sXMT6Hr7we3tYG6pHHegdQN4r4tOxe9aIES3GKxrQbLu5j7nomT5sVfFOYUQmBe0tZKe-UZcl40gJ080b3qLfD6eR-P9HiSxabruunQC-LCBEItE_dV4uyQd2q9EhDB2U0PZo6fL6zYkJuFBh8OGhS7ZEmb4-O77ZJsqOktchAUCKZBbw",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1411 K Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.907993,
+				"lng": -77.035051
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "ec25769cecb4807d676af3e63fb03fa01baaee18",
+		"name": "Avenue Cafe & Lounge",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 294,
+				"html_attributions": [],
+				"photo_reference": "CoQBfwAAAACfAjhGB9aFaR_xFDyu-lLCqHbt_bwg8dDitKpODU6ZILgmyE45Ka2CVZBebmqKsNJ7s2s-JaeaIjHzzDsL3swtZ1Wt3V3xcM5iSBc_Jg0QlBMsTRTPyFJat-HbKFPzBj3L5_gDCXrnkLITVDIN72gH6LFI2m4YJv8jMoW8MaEGEhBaxPYx1T0SP4WTD7cqFeIYGhSKfyKElzvnGKEWPR9wSOv_wgN-ew",
+				"width": 500
+			}
+		],
+		"price_level": 2,
+		"rating": 4.2,
+		"reference": "CoQBcQAAAJH0QW6i00WVQE5hSQC-GVpiy9BMLdxPrdv1xjyP1MpFUFmpVWtr-BkaWuu0cU0BigUA75iAYPqRH2Khv3wUFBTItwtYk21aF8RIqn7q3OLLT4StR2FUoUhlJb5pXa0m9Tdgizg6bvBfaAmerWchLw7mh2LQAQIIvnxSR9mcSIN_EhBXKE2J4IMNwbMGalmuzvuYGhSumvoKuF2liJ3Z2J9UipYf6WB2pw",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1501 Rhode Island Avenue Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.902314,
+				"lng": -77.036866
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "1cb4f800baec353d7e2892f24527ae7ca7aa21ed",
+		"name": "P.J. Clarke's",
+		"opening_hours": {
+			"open_now": false
+		},
+		"price_level": 2,
+		"rating": 4.1,
+		"reference": "CnRqAAAAbfbTtJ97_bSsURQETRr2mo1eqyOH2J_na60GeCoBH13e4fCxcLtKRYXmQjwBRIHEeQS3Ykj9T9Q6fRYU5-taUSs1VZqOeJvib_JQzsfuiovxe3TGqlBdkw_COmjfrNied-t3p-7Cn9fpUehWy7UcPBIQx-oCpbrXVg9BmARwIdDQaxoUqQ-ayiM6KlT54zzt2hfJQYryvd4",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1600 K Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.903186,
+				"lng": -77.032137
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+		"id": "fbf223953c2c49d01ae6d84aabe07ac99637517f",
+		"name": "point chaud cafe & crepes",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 1536,
+				"html_attributions": [
+					"From a Google User"
+				],
+				"photo_reference": "CpQBhgAAAA2AvqL2YfCTfo0L7bhZ7DP4Kd80Pe3eIsrGXKcESmAW0Rut18-nOQoWuPP7C_2pinKpo4JJZj3viNsdVvrGJPPJ9ax1r8nJGEc39G62nuzp6t7Zv0HutZHXuSDpftZG4eoYOrWgs9idHiwSkCZq4ppw4wNmYKhEsSLTgcNMGjWrGzSXSy8OPFpKMt7TZOHR9hIQQ6qt2mkXso5giab0xBTqwxoUo2TeohO-FNsyHTjdD4iLAJb7eXc",
+				"width": 2048
+			}
+		],
+		"price_level": 1,
+		"rating": 3.8,
+		"reference": "CoQBdwAAAKdydBqyipKTU5D4RwoEIYPD7geQ-5KHohWl5d_390H6kWzKDC2Otr-Xs4aXy3r1L0EhQRtByuQy_4azEzNV3Aa8Kmxkm0Pybu-7sntsTYqydmS7idQ_0mwb3yEX8ujIdW0HoEtG8cZ7lzkvOUl_accUNTq6wDUUUr_Vib68LuIFEhA1YXVW4-XZkdNno1LzN8dKGhRBAxzB0tIMGuBlwJ2KfW4bPTaHZw",
+		"types": [
+			"cafe",
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1012 14th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.903104,
+				"lng": -77.036405
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "0499cac8cef6953123780279e1227e84597dd00b",
+		"name": "NORTH GATE GRILL",
+		"opening_hours": {
+			"open_now": true
+		},
+		"price_level": 2,
+		"rating": 4.2,
+		"reference": "CnRtAAAA5YJyxErx50dFoS22Z-ooFFc4pWIG-diyeP9HGQLVz2HOfZvwKy8vHfOTECPgfyssNaHOLzPGe8iTf4PWYRhBM7G0MxC1WbP39VNsa4QA2FOKLWNGe5Q5YFjSSJ2YMj75m2dHoEARBKsl7fG8MeGGzRIQhSGUKIVqbnUSW9qcqKfSThoUHp16fbLJiPmm1fGd_aQhXUSCnU4",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1001 16th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.90542,
+				"lng": -77.034373
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "dc4821c73d5d0411bef9a52fc144255c4bfc5cf3",
+		"name": "The Federalist",
+		"opening_hours": {
+			"open_now": false
+		},
+		"price_level": 3,
+		"reference": "CnRrAAAANGv0VSyG7BzkT70JPVhl2qhPYJjPlkNdKMfWkDqJDjibReKcQL4a32UTl0vAv3c2gX3eH2bIrfGvlD5LkiZrzV-5RhBjq4qyp9vUal6H3jzlMoAwXvM8pkFGtonRkcy0Zs35qgzzJ7IukIGslad7kBIQ2NLntncr9MSFNiArfjj3TRoUfm87GfKCg_DwbTanm61PxRnO-Yg",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1177 15th Street Northwest, Washington"
+	},
+	{
+		"geometry": {
+			"location": {
+				"lat": 38.903848,
+				"lng": -77.031206
+			}
+		},
+		"icon": "http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+		"id": "b40132d889619f902d4010fb4e11fbdf49aff956",
+		"name": "Elizabeth's Gone Raw",
+		"opening_hours": {
+			"open_now": true
+		},
+		"photos": [
+			{
+				"height": 493,
+				"html_attributions": [],
+				"photo_reference": "CoQBegAAAF4M1BpvRF6hEA_7RbXd-nLHk_xVKaGNbp5zHFRUib2D3ig32mF7hityATB_VCtXxPs91QVxWDcWDahcJkieix38UGma-b9mPe8UNPCspJGoXPfGRANEju9bDW_dlD9fkayM6Lg8HxTHa54m6EKnbp0Vxsnj_1Tf_CSo2-qLXpSQEhC2NOsc0pC_LtLJZ_pgRQoLGhT42EqRycUakqEydB8Y1zwMinlX5A",
+				"width": 790
+			}
+		],
+		"price_level": 3,
+		"reference": "CoQBcQAAACUet3698mqtzxyVGaxGlnG1qvOAfbHOjT_8zhUxKdTOdzpAcBstx16U48ZmsNwLATcL_tgjnBUrg1p3dKygky8MpTY30vkHmL4swnqQeqNcOPIYlo6oA6181aQUH6o8_WAs0wia3Q68WdE--d-3SM6-3ZycP1GT8bOiF4LnJP1fEhBprh0sQTBSesOccv6KetcRGhT_9p5b87lve3E9Xi74Af49QnXF0g",
+		"types": [
+			"restaurant",
+			"food",
+			"establishment"
+		],
+		"vicinity": "1341 L Street Northwest, Washington"
+	}
+]

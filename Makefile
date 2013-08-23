@@ -9,10 +9,16 @@ json2csv := ./node_modules/.bin/json2csv
 install:
 	npm install
 
-all: opentable yelp
+all: factual foursquare google opentable yelp
 
 factual:
-	$(MAKE) run service=factual
+	$(MAKE) run service=factual fields=address,latitude,locality,longitude,name,postcode,tel
+
+foursquare:
+	$(MAKE) run service=foursquare fields=name,canonicalUrl,verified,url
+
+google:
+	$(MAKE) run service=google fields=name,price_level,rating,vicinity
 
 opentable:
 	$(MAKE) run
