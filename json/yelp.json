@@ -194,7 +194,7 @@
 		"distance": 128.92208073287435,
 		"mobile_url": "http://m.yelp.com/biz/lincoln-washington",
 		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
-		"review_count": 317,
+		"review_count": 318,
 		"name": "Lincoln",
 		"snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/zAEa6dtJp6nm-GR32OqtgA/ms.jpg",
 		"rating": 3.5,
@@ -390,7 +390,7 @@
 		"distance": 458.3127335800228,
 		"mobile_url": "http://m.yelp.com/biz/birch-and-barley-washington",
 		"rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
-		"review_count": 506,
+		"review_count": 507,
 		"name": "Birch & Barley",
 		"snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/2QxtEXrOJW5TqIcOB2FRkw/ms.jpg",
 		"rating": 4,
@@ -592,7 +592,7 @@
 		"distance": 423.6953525810105,
 		"mobile_url": "http://m.yelp.com/biz/blt-steak-washington",
 		"rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
-		"review_count": 315,
+		"review_count": 314,
 		"name": "BLT Steak",
 		"snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/gAqaCNRvDYBomURwySp-Cg/ms.jpg",
 		"rating": 4,
@@ -727,7 +727,7 @@
 		"distance": 418.9914736516149,
 		"mobile_url": "http://m.yelp.com/biz/bobby-vans-steakhouse-washington",
 		"rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
-		"review_count": 131,
+		"review_count": 132,
 		"name": "Bobby Van's Steakhouse",
 		"snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/IzdQAnp6kwKx70vH65v7Fg/ms.jpg",
 		"rating": 3,
@@ -825,7 +825,7 @@
 		"rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
 		"review_count": 290,
 		"name": "Lima Restaurant & Lounge",
-		"snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/BkblXpe3S4VDqudI_yKMww/ms.jpg",
+		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/mT7mbWX6PE_zER22rG6nKA/ms.jpg",
 		"rating": 3,
 		"url": "http://www.yelp.com/biz/lima-restaurant-and-lounge-washington",
 		"location": {
@@ -848,7 +848,7 @@
 		},
 		"menu_date_updated": 1374450968,
 		"phone": "2027892800",
-		"snippet_text": "Two words: HAPPY. HOUR.\n\nThe wings, chips and guac, empanadas, sliders...\n\nI haven't had anything from the happy hour menu I didn't like. I'm not a fan of...",
+		"snippet_text": "had a great time there .nice atmosphere good people .\ndrinks could be better but i understand they have to make money .i wouldve loved some more vodka on my...",
 		"image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/VFkBWI-7NlqhBcTEdu40mQ/ms.jpg",
 		"categories": [
 			[
@@ -1170,6 +1170,51 @@
 		"rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png"
 	},
 	{
+		"is_claimed": false,
+		"distance": 150.12964501274985,
+		"mobile_url": "http://m.yelp.com/biz/dc-thai-washington",
+		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+		"review_count": 35,
+		"name": "DC Thai",
+		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/w1fidobDxHVIM9M0G3RK6w/ms.jpg",
+		"rating": 3.5,
+		"url": "http://www.yelp.com/biz/dc-thai-washington",
+		"location": {
+			"cross_streets": "N K St & N 15th St",
+			"city": "Washington",
+			"display_address": [
+				"1018 Vermont Ave NW",
+				"(b/t N K St & N 15th St)",
+				"Washington, DC 20005"
+			],
+			"geo_accuracy": 8,
+			"postal_code": "20005",
+			"country_code": "US",
+			"address": [
+				"1018 Vermont Ave NW"
+			],
+			"coordinate": {
+				"latitude": 38.9032087,
+				"longitude": -77.0336568
+			},
+			"state_code": "DC"
+		},
+		"phone": "2026390303",
+		"snippet_text": "Not bad, not bad at all! First impression - nothing fancy, low-key lunch spot that I would definitely return to for a sit down meal. I didn't have the time...",
+		"image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/FYzpqDVXep-0djQGijcvig/ms.jpg",
+		"categories": [
+			[
+				"Thai",
+				"thai"
+			]
+		],
+		"display_phone": "+1-202-639-0303",
+		"rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+		"id": "dc-thai-washington",
+		"is_closed": false,
+		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png"
+	},
+	{
 		"is_claimed": true,
 		"distance": 434.2428864691159,
 		"mobile_url": "http://m.yelp.com/biz/ici-urban-bistro-washington",
@@ -1313,6 +1358,106 @@
 		"rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png"
 	},
 	{
+		"is_claimed": true,
+		"distance": 315.47933272317374,
+		"mobile_url": "http://m.yelp.com/biz/bar-c%C3%B6de-washington-2",
+		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+		"review_count": 281,
+		"name": "Bar-Cöde",
+		"snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/qim0-_3dCwqUvnb1-UHPHA/ms.jpg",
+		"rating": 3.5,
+		"url": "http://www.yelp.com/biz/bar-c%C3%B6de-washington-2",
+		"location": {
+			"cross_streets": "N Sumner Row & N L St",
+			"city": "Washington",
+			"display_address": [
+				"1101 17th St NW",
+				"(b/t N Sumner Row & N L St)",
+				"Washington, DC 20036"
+			],
+			"geo_accuracy": 8,
+			"postal_code": "20036",
+			"country_code": "US",
+			"address": [
+				"1101 17th St NW"
+			],
+			"coordinate": {
+				"latitude": 38.904115,
+				"longitude": -77.038093
+			},
+			"state_code": "DC"
+		},
+		"menu_date_updated": 1374653146,
+		"phone": "2029559001",
+		"snippet_text": "Beautiful space with good food, nice cocktails and a nice patio in front.  I came around 10pm and had a couple cosmos while waiting for my friend to arrive....",
+		"image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/NqB-3btUa-qfKoex168E4A/ms.jpg",
+		"categories": [
+			[
+				"American (New)",
+				"newamerican"
+			],
+			[
+				"Lounges",
+				"lounges"
+			]
+		],
+		"display_phone": "+1-202-955-9001",
+		"rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+		"menu_provider": "singleplatform",
+		"id": "bar-cöde-washington-2",
+		"is_closed": false,
+		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png"
+	},
+	{
+		"is_claimed": false,
+		"distance": 306.94566162034664,
+		"mobile_url": "http://m.yelp.com/biz/14-k-restaurant-and-lounge-washington",
+		"rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+		"review_count": 106,
+		"name": "14 K Restaurant & Lounge",
+		"snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/FVEyMBgGCwgVTlIIu9wR-A/ms.jpg",
+		"rating": 3,
+		"url": "http://www.yelp.com/biz/14-k-restaurant-and-lounge-washington",
+		"location": {
+			"cross_streets": "N K St & N L St",
+			"city": "Washington",
+			"display_address": [
+				"1001 14th St NW",
+				"(b/t N K St & N L St)",
+				"Washington, DC 20005"
+			],
+			"geo_accuracy": 8,
+			"postal_code": "20005",
+			"country_code": "US",
+			"address": [
+				"1001 14th St NW"
+			],
+			"coordinate": {
+				"latitude": 38.902935,
+				"longitude": -77.031462
+			},
+			"state_code": "DC"
+		},
+		"phone": "2022187575",
+		"snippet_text": "Ah yes, I came here for happy hour - great drinks selection!\n\nI also got the duck flatbread, which was unique and really tasty. The duck was a good mix of...",
+		"image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/vMKSfrW0yD9kaZhRt35lpg/ms.jpg",
+		"categories": [
+			[
+				"American (New)",
+				"newamerican"
+			],
+			[
+				"Lounges",
+				"lounges"
+			]
+		],
+		"display_phone": "+1-202-218-7575",
+		"rating_img_url_large": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+		"id": "14-k-restaurant-and-lounge-washington",
+		"is_closed": false,
+		"rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png"
+	},
+	{
 		"is_claimed": false,
 		"distance": 460.09093593838304,
 		"mobile_url": "http://m.yelp.com/biz/teak-wood-washington",
@@ -1368,106 +1513,6 @@
 		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png"
 	},
 	{
-		"is_claimed": false,
-		"distance": 306.94566162034664,
-		"mobile_url": "http://m.yelp.com/biz/14-k-restaurant-and-lounge-washington",
-		"rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
-		"review_count": 106,
-		"name": "14 K Restaurant & Lounge",
-		"snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/FVEyMBgGCwgVTlIIu9wR-A/ms.jpg",
-		"rating": 3,
-		"url": "http://www.yelp.com/biz/14-k-restaurant-and-lounge-washington",
-		"location": {
-			"cross_streets": "N K St & N L St",
-			"city": "Washington",
-			"display_address": [
-				"1001 14th St NW",
-				"(b/t N K St & N L St)",
-				"Washington, DC 20005"
-			],
-			"geo_accuracy": 8,
-			"postal_code": "20005",
-			"country_code": "US",
-			"address": [
-				"1001 14th St NW"
-			],
-			"coordinate": {
-				"latitude": 38.902935,
-				"longitude": -77.031462
-			},
-			"state_code": "DC"
-		},
-		"phone": "2022187575",
-		"snippet_text": "Ah yes, I came here for happy hour - great drinks selection!\n\nI also got the duck flatbread, which was unique and really tasty. The duck was a good mix of...",
-		"image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/vMKSfrW0yD9kaZhRt35lpg/ms.jpg",
-		"categories": [
-			[
-				"American (New)",
-				"newamerican"
-			],
-			[
-				"Lounges",
-				"lounges"
-			]
-		],
-		"display_phone": "+1-202-218-7575",
-		"rating_img_url_large": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
-		"id": "14-k-restaurant-and-lounge-washington",
-		"is_closed": false,
-		"rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png"
-	},
-	{
-		"is_claimed": true,
-		"distance": 315.47933272317374,
-		"mobile_url": "http://m.yelp.com/biz/bar-c%C3%B6de-washington-2",
-		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
-		"review_count": 280,
-		"name": "Bar-Cöde",
-		"snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/qim0-_3dCwqUvnb1-UHPHA/ms.jpg",
-		"rating": 3.5,
-		"url": "http://www.yelp.com/biz/bar-c%C3%B6de-washington-2",
-		"location": {
-			"cross_streets": "N Sumner Row & N L St",
-			"city": "Washington",
-			"display_address": [
-				"1101 17th St NW",
-				"(b/t N Sumner Row & N L St)",
-				"Washington, DC 20036"
-			],
-			"geo_accuracy": 8,
-			"postal_code": "20036",
-			"country_code": "US",
-			"address": [
-				"1101 17th St NW"
-			],
-			"coordinate": {
-				"latitude": 38.904115,
-				"longitude": -77.038093
-			},
-			"state_code": "DC"
-		},
-		"menu_date_updated": 1374653146,
-		"phone": "2029559001",
-		"snippet_text": "Beautiful space with good food, nice cocktails and a nice patio in front.  I came around 10pm and had a couple cosmos while waiting for my friend to arrive....",
-		"image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/NqB-3btUa-qfKoex168E4A/ms.jpg",
-		"categories": [
-			[
-				"American (New)",
-				"newamerican"
-			],
-			[
-				"Lounges",
-				"lounges"
-			]
-		],
-		"display_phone": "+1-202-955-9001",
-		"rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
-		"menu_provider": "singleplatform",
-		"id": "bar-cöde-washington-2",
-		"is_closed": false,
-		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png"
-	},
-	{
 		"is_claimed": true,
 		"distance": 514.4512611655116,
 		"mobile_url": "http://m.yelp.com/biz/equinox-restaurant-washington",
@@ -1514,51 +1559,6 @@
 	},
 	{
 		"is_claimed": false,
-		"distance": 150.12964501274985,
-		"mobile_url": "http://m.yelp.com/biz/dc-thai-washington",
-		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
-		"review_count": 34,
-		"name": "DC Thai",
-		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/w1fidobDxHVIM9M0G3RK6w/ms.jpg",
-		"rating": 3.5,
-		"url": "http://www.yelp.com/biz/dc-thai-washington",
-		"location": {
-			"cross_streets": "N K St & N 15th St",
-			"city": "Washington",
-			"display_address": [
-				"1018 Vermont Ave NW",
-				"(b/t N K St & N 15th St)",
-				"Washington, DC 20005"
-			],
-			"geo_accuracy": 8,
-			"postal_code": "20005",
-			"country_code": "US",
-			"address": [
-				"1018 Vermont Ave NW"
-			],
-			"coordinate": {
-				"latitude": 38.9032087,
-				"longitude": -77.0336568
-			},
-			"state_code": "DC"
-		},
-		"phone": "2026390303",
-		"snippet_text": "Not bad, not bad at all! First impression - nothing fancy, low-key lunch spot that I would definitely return to for a sit down meal. I didn't have the time...",
-		"image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/FYzpqDVXep-0djQGijcvig/ms.jpg",
-		"categories": [
-			[
-				"Thai",
-				"thai"
-			]
-		],
-		"display_phone": "+1-202-639-0303",
-		"rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
-		"id": "dc-thai-washington",
-		"is_closed": false,
-		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png"
-	},
-	{
-		"is_claimed": false,
 		"distance": 417.6789724058772,
 		"mobile_url": "http://m.yelp.com/biz/fojol-bros-of-benethiopia-washington",
 		"rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
@@ -1598,51 +1598,6 @@
 			"coordinate": {
 				"latitude": 38.901921,
 				"longitude": -77.030843
-			},
-			"state_code": "DC"
-		}
-	},
-	{
-		"is_claimed": false,
-		"distance": 205.15680850387196,
-		"mobile_url": "http://m.yelp.com/biz/korean-food-cart-washington-2",
-		"rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
-		"review_count": 53,
-		"name": "Korean Food Cart",
-		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/ssvSgVjkV9lq27LF-VNoAA/ms.jpg",
-		"rating": 4,
-		"url": "http://www.yelp.com/biz/korean-food-cart-washington-2",
-		"snippet_text": "I love this cart.  The people running it are wonderful...the food is fantastic.  Definitely go here.  I'll miss it if I ever change office locations.",
-		"image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/rCX4bI44xsiTnSdgutX2yA/ms.jpg",
-		"categories": [
-			[
-				"Korean",
-				"korean"
-			],
-			[
-				"Food Stands",
-				"foodstands"
-			]
-		],
-		"rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
-		"rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
-		"id": "korean-food-cart-washington-2",
-		"is_closed": false,
-		"location": {
-			"city": "Washington",
-			"display_address": [
-				"1425 K St NW",
-				"Washington, DC 20005"
-			],
-			"geo_accuracy": 8,
-			"postal_code": "20005",
-			"country_code": "US",
-			"address": [
-				"1425 K St NW"
-			],
-			"coordinate": {
-				"latitude": 38.902914,
-				"longitude": -77.033066
 			},
 			"state_code": "DC"
 		}
@@ -1697,11 +1652,56 @@
 		"rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png"
 	},
 	{
+		"is_claimed": false,
+		"distance": 205.15680850387196,
+		"mobile_url": "http://m.yelp.com/biz/korean-food-cart-washington-2",
+		"rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
+		"review_count": 53,
+		"name": "Korean Food Cart",
+		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/ssvSgVjkV9lq27LF-VNoAA/ms.jpg",
+		"rating": 4,
+		"url": "http://www.yelp.com/biz/korean-food-cart-washington-2",
+		"snippet_text": "I love this cart.  The people running it are wonderful...the food is fantastic.  Definitely go here.  I'll miss it if I ever change office locations.",
+		"image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/rCX4bI44xsiTnSdgutX2yA/ms.jpg",
+		"categories": [
+			[
+				"Korean",
+				"korean"
+			],
+			[
+				"Food Stands",
+				"foodstands"
+			]
+		],
+		"rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png",
+		"rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png",
+		"id": "korean-food-cart-washington-2",
+		"is_closed": false,
+		"location": {
+			"city": "Washington",
+			"display_address": [
+				"1425 K St NW",
+				"Washington, DC 20005"
+			],
+			"geo_accuracy": 8,
+			"postal_code": "20005",
+			"country_code": "US",
+			"address": [
+				"1425 K St NW"
+			],
+			"coordinate": {
+				"latitude": 38.902914,
+				"longitude": -77.033066
+			},
+			"state_code": "DC"
+		}
+	},
+	{
 		"is_claimed": true,
 		"distance": 561.6860004577894,
 		"mobile_url": "http://m.yelp.com/biz/the-oval-room-washington-2",
 		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
-		"review_count": 168,
+		"review_count": 169,
 		"name": "The Oval Room",
 		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/qamHVqEVzDh3Q_w6nGdedA/ms.jpg",
 		"rating": 3.5,
@@ -1841,55 +1841,6 @@
 	},
 	{
 		"is_claimed": true,
-		"distance": 457.66461971179376,
-		"mobile_url": "http://m.yelp.com/biz/b-too-washington-2",
-		"rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
-		"review_count": 64,
-		"name": "B Too",
-		"snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/XURJkxwR8xivHVvbdB_Pbg/ms.jpg",
-		"rating": 3,
-		"url": "http://www.yelp.com/biz/b-too-washington-2",
-		"location": {
-			"cross_streets": "N Rhode Island Ave & N N St",
-			"city": "Washington",
-			"display_address": [
-				"1324 14th St NW",
-				"(b/t N Rhode Island Ave & N N St)",
-				"Logan Circle",
-				"Washington, DC 20005"
-			],
-			"geo_accuracy": 9,
-			"neighborhoods": [
-				"Logan Circle"
-			],
-			"postal_code": "20005",
-			"country_code": "US",
-			"address": [
-				"1324 14th St NW"
-			],
-			"coordinate": {
-				"latitude": 38.9080994,
-				"longitude": -77.0321397
-			},
-			"state_code": "DC"
-		},
-		"phone": "2026272800",
-		"snippet_text": "Let me start off by saying that the food is pretty good -- Belgian classics elevated to a very high gastronomic level, which explains the price-- but the...",
-		"image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/Dxhb72jSpRbgp94xob710Q/ms.jpg",
-		"categories": [
-			[
-				"Belgian",
-				"belgian"
-			]
-		],
-		"display_phone": "+1-202-627-2800",
-		"rating_img_url_large": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
-		"id": "b-too-washington-2",
-		"is_closed": false,
-		"rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png"
-	},
-	{
-		"is_claimed": true,
 		"distance": 403.09988036748183,
 		"mobile_url": "http://m.yelp.com/biz/beacon-bar-and-grill-washington",
 		"rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
@@ -1944,6 +1895,55 @@
 		"rating_img_url_large": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
 		"menu_provider": "singleplatform",
 		"id": "beacon-bar-and-grill-washington",
+		"is_closed": false,
+		"rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png"
+	},
+	{
+		"is_claimed": true,
+		"distance": 457.66461971179376,
+		"mobile_url": "http://m.yelp.com/biz/b-too-washington-2",
+		"rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+		"review_count": 65,
+		"name": "B Too",
+		"snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/SILG6dWEBqsDUXGxq8WAKA/ms.jpg",
+		"rating": 3,
+		"url": "http://www.yelp.com/biz/b-too-washington-2",
+		"location": {
+			"cross_streets": "N Rhode Island Ave & N N St",
+			"city": "Washington",
+			"display_address": [
+				"1324 14th St NW",
+				"(b/t N Rhode Island Ave & N N St)",
+				"Logan Circle",
+				"Washington, DC 20005"
+			],
+			"geo_accuracy": 9,
+			"neighborhoods": [
+				"Logan Circle"
+			],
+			"postal_code": "20005",
+			"country_code": "US",
+			"address": [
+				"1324 14th St NW"
+			],
+			"coordinate": {
+				"latitude": 38.9080994,
+				"longitude": -77.0321397
+			},
+			"state_code": "DC"
+		},
+		"phone": "2026272800",
+		"snippet_text": "Love belga cafe so was excited for b too. The servers seem unfocused, despite the fact that it wasn't too packed when i walked in. Service ranged from...",
+		"image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/Dxhb72jSpRbgp94xob710Q/ms.jpg",
+		"categories": [
+			[
+				"Belgian",
+				"belgian"
+			]
+		],
+		"display_phone": "+1-202-627-2800",
+		"rating_img_url_large": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+		"id": "b-too-washington-2",
 		"is_closed": false,
 		"rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png"
 	},
@@ -2091,7 +2091,7 @@
 		"rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
 		"review_count": 526,
 		"name": "Ceiba",
-		"snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/2O2dJt1HEe5vPQYErjxyug/ms.jpg",
+		"snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/Wllir-aFqJQSKKsoAaCNWA/ms.jpg",
 		"rating": 4,
 		"url": "http://www.yelp.com/biz/ceiba-washington-2",
 		"location": {
@@ -2116,7 +2116,7 @@
 		},
 		"menu_date_updated": 1376915260,
 		"phone": "2023933983",
-		"snippet_text": "We went as a party of four for a late supper a couple months ago and everything was quite nice.\nThe food is the real star.  As with many 'good' places in...",
+		"snippet_text": "Went with a friend for the Summer Restaurant Week pre-fixe dinner, enjoyed the whole experience!\n\nGreat atmosphere, nice without being stuffy or...",
 		"image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/Fp4KbqtwP0QlcMk2P2pk5Q/ms.jpg",
 		"categories": [
 			[
@@ -2436,7 +2436,7 @@
 		"distance": 652.008450902094,
 		"mobile_url": "http://m.yelp.com/biz/estadio-washington",
 		"rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
-		"review_count": 445,
+		"review_count": 444,
 		"name": "Estadio",
 		"snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/mRUX9mVpPxK09MVj38WHWw/ms.jpg",
 		"rating": 4,
@@ -2491,7 +2491,7 @@
 		"distance": 450.99395745172023,
 		"mobile_url": "http://m.yelp.com/biz/tsunami-sushi-and-lounge-washington",
 		"rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
-		"review_count": 144,
+		"review_count": 145,
 		"name": "Tsunami Sushi & Lounge",
 		"snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/-Uq-kxw2X-f3LpI-UaPWEw/ms.jpg",
 		"rating": 3,
@@ -2752,7 +2752,7 @@
 		"distance": 570.950494180906,
 		"mobile_url": "http://m.yelp.com/biz/oceanaire-seafood-room-washington-2",
 		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
-		"review_count": 237,
+		"review_count": 238,
 		"name": "Oceanaire Seafood Room",
 		"snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/yzZTfEZ-NJzduP_VBXQN8g/ms.jpg",
 		"rating": 3.5,
@@ -3409,7 +3409,7 @@
 		"distance": 458.2927176025216,
 		"mobile_url": "http://m.yelp.com/biz/blackfinn-washington",
 		"rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
-		"review_count": 170,
+		"review_count": 171,
 		"name": "BlackFinn",
 		"snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/SuXHt6q76Z5NZ3DCP-CjOw/ms.jpg",
 		"rating": 3,
@@ -3458,51 +3458,6 @@
 		"id": "blackfinn-washington",
 		"is_closed": false,
 		"rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png"
-	},
-	{
-		"is_claimed": false,
-		"distance": 333.31737693313283,
-		"mobile_url": "http://m.yelp.com/biz/potbelly-sandwich-shop-washington-16",
-		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
-		"review_count": 55,
-		"name": "Potbelly Sandwich Shop",
-		"snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/Ek2rIySmsUv1KeVoFUVlbw/ms.jpg",
-		"rating": 3.5,
-		"url": "http://www.yelp.com/biz/potbelly-sandwich-shop-washington-16",
-		"location": {
-			"city": "Washington",
-			"display_address": [
-				"1660 L St NW",
-				"Washington, DC 20036"
-			],
-			"geo_accuracy": 8,
-			"postal_code": "20036",
-			"country_code": "US",
-			"address": [
-				"1660 L St NW"
-			],
-			"coordinate": {
-				"latitude": 38.9036225,
-				"longitude": -77.0381851
-			},
-			"state_code": "DC"
-		},
-		"menu_date_updated": 1374458870,
-		"phone": "2024638111",
-		"snippet_text": "As can be expected, this place was super crowded during a Tuesday lunch hour. I hadn't been in a Potbelly in awhile and wasn't quite prepared to order,...",
-		"image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/bRRnOiyEJnTfwDCoIiR-mQ/ms.jpg",
-		"categories": [
-			[
-				"Sandwiches",
-				"sandwiches"
-			]
-		],
-		"display_phone": "+1-202-463-8111",
-		"rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
-		"menu_provider": "singleplatform",
-		"id": "potbelly-sandwich-shop-washington-16",
-		"is_closed": false,
-		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png"
 	},
 	{
 		"is_claimed": true,
@@ -3556,6 +3511,51 @@
 		"rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
 		"menu_provider": "singleplatform",
 		"id": "au-bon-pain-washington-7",
+		"is_closed": false,
+		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png"
+	},
+	{
+		"is_claimed": false,
+		"distance": 333.31737693313283,
+		"mobile_url": "http://m.yelp.com/biz/potbelly-sandwich-shop-washington-16",
+		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+		"review_count": 55,
+		"name": "Potbelly Sandwich Shop",
+		"snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/Ek2rIySmsUv1KeVoFUVlbw/ms.jpg",
+		"rating": 3.5,
+		"url": "http://www.yelp.com/biz/potbelly-sandwich-shop-washington-16",
+		"location": {
+			"city": "Washington",
+			"display_address": [
+				"1660 L St NW",
+				"Washington, DC 20036"
+			],
+			"geo_accuracy": 8,
+			"postal_code": "20036",
+			"country_code": "US",
+			"address": [
+				"1660 L St NW"
+			],
+			"coordinate": {
+				"latitude": 38.9036225,
+				"longitude": -77.0381851
+			},
+			"state_code": "DC"
+		},
+		"menu_date_updated": 1374458870,
+		"phone": "2024638111",
+		"snippet_text": "As can be expected, this place was super crowded during a Tuesday lunch hour. I hadn't been in a Potbelly in awhile and wasn't quite prepared to order,...",
+		"image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/bRRnOiyEJnTfwDCoIiR-mQ/ms.jpg",
+		"categories": [
+			[
+				"Sandwiches",
+				"sandwiches"
+			]
+		],
+		"display_phone": "+1-202-463-8111",
+		"rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+		"menu_provider": "singleplatform",
+		"id": "potbelly-sandwich-shop-washington-16",
 		"is_closed": false,
 		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png"
 	},
@@ -3707,7 +3707,7 @@
 		"distance": 588.9147167863005,
 		"mobile_url": "http://m.yelp.com/biz/commissary-washington",
 		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
-		"review_count": 390,
+		"review_count": 391,
 		"name": "Commissary",
 		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/un88XfGSlr17aHiuZ5tzBw/ms.jpg",
 		"rating": 3.5,
@@ -3764,7 +3764,7 @@
 		"rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
 		"review_count": 33,
 		"name": "Pizza Autentica",
-		"snippet_image_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/cc4afe21892e/default_avatars/user_medium_square.png",
+		"snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/9ddeOEnV6uYerBxiEMfRZg/ms.jpg",
 		"rating": 3,
 		"url": "http://www.yelp.com/biz/pizza-autentica-washington-2",
 		"location": {
@@ -3788,7 +3788,7 @@
 			"state_code": "DC"
 		},
 		"phone": "2028981480",
-		"snippet_text": "The L street location is under new management.  The owner and employees are helpful, gracious, patient and all around there to serve their customers.\nThe...",
+		"snippet_text": "This seems like the kind of the place where you should stick to the cheese pizza. My cheese slice was pretty good, but my veggie slice was somewhat withered...",
 		"image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/Qzzcg9XXopK16xhjPpvPbQ/ms.jpg",
 		"categories": [
 			[
@@ -3846,6 +3846,49 @@
 		"rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a6210baec261/ico/stars/v1/stars_small_2.png"
 	},
 	{
+		"is_claimed": false,
+		"distance": 443.9837928585475,
+		"mobile_url": "http://m.yelp.com/biz/ooh-dat-chicken-washington",
+		"rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+		"review_count": 32,
+		"name": "Ooh Dat Chicken",
+		"snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/N170EAaKQhtEzyQj6v1ZFw/ms.jpg",
+		"rating": 4.5,
+		"url": "http://www.yelp.com/biz/ooh-dat-chicken-washington",
+		"location": {
+			"city": "Washington",
+			"display_address": [
+				"Washington, DC"
+			],
+			"geo_accuracy": 9,
+			"country_code": "US",
+			"address": [],
+			"coordinate": {
+				"latitude": 38.9011865487765,
+				"longitude": -77.03750610351561
+			},
+			"state_code": "DC"
+		},
+		"phone": "7037985663",
+		"snippet_text": "THE.BEST.ROTISSERIE.CHICKEN.EVER!!\n\nI am eating Ooh Dat Chicken as I type this review. Hands down, this is the best rotisserie chicken I've ever had. I am...",
+		"image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/9MOipakyR0K8zMLajvoFcA/ms.jpg",
+		"categories": [
+			[
+				"Street Vendors",
+				"streetvendors"
+			],
+			[
+				"Food Stands",
+				"foodstands"
+			]
+		],
+		"display_phone": "+1-703-798-5663",
+		"rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+		"id": "ooh-dat-chicken-washington",
+		"is_closed": false,
+		"rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
+	},
+	{
 		"is_claimed": true,
 		"distance": 346.5818614311758,
 		"mobile_url": "http://m.yelp.com/biz/chopt-creative-salad-company-washington-9",
@@ -3873,7 +3916,7 @@
 			},
 			"state_code": "DC"
 		},
-		"menu_date_updated": 1374541286,
+		"menu_date_updated": 1377264860,
 		"phone": "2026880333",
 		"snippet_text": "Feel good about what you eat!  Chop't salads have a base of dark leafy greens (including super food kale if you are inclined).  Add some meat and cheese and...",
 		"image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/JhWD69zGbtwG3AmtTsabAw/ms.jpg",
@@ -3889,7 +3932,7 @@
 		],
 		"display_phone": "+1-202-688-0333",
 		"rating_img_url_large": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
-		"menu_provider": "singleplatform",
+		"menu_provider": "single_platform",
 		"id": "chopt-creative-salad-company-washington-9",
 		"is_closed": false,
 		"rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png"
@@ -4051,62 +4094,11 @@
 		"rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png"
 	},
 	{
-		"is_claimed": false,
-		"distance": 225.53256725157473,
-		"mobile_url": "http://m.yelp.com/biz/point-chaud-caf%C3%A9-and-cr%C3%AApes-washington-3",
-		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
-		"review_count": 63,
-		"name": "Point Chaud Café & Crêpes",
-		"snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/AgOCcHLRqN7RfMQARVbkkA/ms.jpg",
-		"rating": 3.5,
-		"url": "http://www.yelp.com/biz/point-chaud-caf%C3%A9-and-cr%C3%AApes-washington-3",
-		"location": {
-			"cross_streets": "N K St & N L St",
-			"city": "Washington",
-			"display_address": [
-				"1012 14th St NW",
-				"(b/t N K St & N L St)",
-				"Washington, DC 20005"
-			],
-			"geo_accuracy": 8,
-			"postal_code": "20005",
-			"country_code": "US",
-			"address": [
-				"1012 14th St NW"
-			],
-			"coordinate": {
-				"latitude": 38.903187,
-				"longitude": -77.03238
-			},
-			"state_code": "DC"
-		},
-		"menu_date_updated": 1376420491,
-		"phone": "2027830304",
-		"snippet_text": "This little hole in the wall has a fabulous menagerie of both sweet and savory crepes. We tried three different types and were happy with all 3. I do have...",
-		"image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/dXDkWdUOTzjdGTxKqQbdYg/ms.jpg",
-		"categories": [
-			[
-				"Creperies",
-				"creperies"
-			],
-			[
-				"Coffee & Tea",
-				"coffee"
-			]
-		],
-		"display_phone": "+1-202-783-0304",
-		"rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
-		"menu_provider": "single_platform",
-		"id": "point-chaud-café-and-crêpes-washington-3",
-		"is_closed": false,
-		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png"
-	},
-	{
 		"is_claimed": true,
 		"distance": 615.7597783078164,
 		"mobile_url": "http://m.yelp.com/biz/logan-tavern-washington",
 		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
-		"review_count": 364,
+		"review_count": 363,
 		"name": "Logan Tavern",
 		"snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/Oo8egThPflfYLKE7XiDoDQ/ms.jpg",
 		"rating": 3.5,
@@ -4161,6 +4153,57 @@
 		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png"
 	},
 	{
+		"is_claimed": false,
+		"distance": 225.53256725157473,
+		"mobile_url": "http://m.yelp.com/biz/point-chaud-caf%C3%A9-and-cr%C3%AApes-washington-3",
+		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+		"review_count": 63,
+		"name": "Point Chaud Café & Crêpes",
+		"snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/AgOCcHLRqN7RfMQARVbkkA/ms.jpg",
+		"rating": 3.5,
+		"url": "http://www.yelp.com/biz/point-chaud-caf%C3%A9-and-cr%C3%AApes-washington-3",
+		"location": {
+			"cross_streets": "N K St & N L St",
+			"city": "Washington",
+			"display_address": [
+				"1012 14th St NW",
+				"(b/t N K St & N L St)",
+				"Washington, DC 20005"
+			],
+			"geo_accuracy": 8,
+			"postal_code": "20005",
+			"country_code": "US",
+			"address": [
+				"1012 14th St NW"
+			],
+			"coordinate": {
+				"latitude": 38.903187,
+				"longitude": -77.03238
+			},
+			"state_code": "DC"
+		},
+		"menu_date_updated": 1376420491,
+		"phone": "2027830304",
+		"snippet_text": "This little hole in the wall has a fabulous menagerie of both sweet and savory crepes. We tried three different types and were happy with all 3. I do have...",
+		"image_url": "http://s3-media1.ak.yelpcdn.com/bphoto/dXDkWdUOTzjdGTxKqQbdYg/ms.jpg",
+		"categories": [
+			[
+				"Creperies",
+				"creperies"
+			],
+			[
+				"Coffee & Tea",
+				"coffee"
+			]
+		],
+		"display_phone": "+1-202-783-0304",
+		"rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+		"menu_provider": "single_platform",
+		"id": "point-chaud-café-and-crêpes-washington-3",
+		"is_closed": false,
+		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png"
+	},
+	{
 		"is_claimed": true,
 		"distance": 266.7898724814441,
 		"mobile_url": "http://m.yelp.com/biz/corner-bakery-washington",
@@ -4208,49 +4251,6 @@
 		"id": "corner-bakery-washington",
 		"is_closed": false,
 		"rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png"
-	},
-	{
-		"is_claimed": false,
-		"distance": 443.9837928585475,
-		"mobile_url": "http://m.yelp.com/biz/ooh-dat-chicken-washington",
-		"rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
-		"review_count": 30,
-		"name": "Ooh Dat Chicken",
-		"snippet_image_url": "http://s3-media1.ak.yelpcdn.com/photo/N170EAaKQhtEzyQj6v1ZFw/ms.jpg",
-		"rating": 4.5,
-		"url": "http://www.yelp.com/biz/ooh-dat-chicken-washington",
-		"location": {
-			"city": "Washington",
-			"display_address": [
-				"Washington, DC"
-			],
-			"geo_accuracy": 9,
-			"country_code": "US",
-			"address": [],
-			"coordinate": {
-				"latitude": 38.9011865487765,
-				"longitude": -77.03750610351561
-			},
-			"state_code": "DC"
-		},
-		"phone": "7037985663",
-		"snippet_text": "THE.BEST.ROTISSERIE.CHICKEN.EVER!!\n\nI am eating Ooh Dat Chicken as I type this review. Hands down, this is the best rotisserie chicken I've ever had. I am...",
-		"image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/9MOipakyR0K8zMLajvoFcA/ms.jpg",
-		"categories": [
-			[
-				"Street Vendors",
-				"streetvendors"
-			],
-			[
-				"Food Stands",
-				"foodstands"
-			]
-		],
-		"display_phone": "+1-703-798-5663",
-		"rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
-		"id": "ooh-dat-chicken-washington",
-		"is_closed": false,
-		"rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
 	},
 	{
 		"is_claimed": false,
@@ -4635,7 +4635,7 @@
 		"distance": 522.3919431822941,
 		"mobile_url": "http://m.yelp.com/biz/churchkey-washington",
 		"rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
-		"review_count": 698,
+		"review_count": 699,
 		"name": "ChurchKey",
 		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/Af-JAHcnghquK716lo26Bg/ms.jpg",
 		"rating": 4,
@@ -5268,6 +5268,50 @@
 	},
 	{
 		"is_claimed": false,
+		"distance": 466.74471181190347,
+		"mobile_url": "http://m.yelp.com/biz/the-sunrise-cafe-washington",
+		"rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+		"review_count": 4,
+		"name": "The Sunrise Cafe",
+		"snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/IZBitaus6MrDsM2wDdsi5A/ms.jpg",
+		"rating": 3,
+		"url": "http://www.yelp.com/biz/the-sunrise-cafe-washington",
+		"location": {
+			"cross_streets": "N 16th St & N 17th St",
+			"city": "Washington",
+			"display_address": [
+				"1622 I St NW",
+				"(b/t N 16th St & N 17th St)",
+				"Washington, DC 20006"
+			],
+			"geo_accuracy": 8,
+			"postal_code": "20006",
+			"country_code": "US",
+			"address": [
+				"1622 I St NW"
+			],
+			"coordinate": {
+				"latitude": 38.9012583,
+				"longitude": -77.0380387
+			},
+			"state_code": "DC"
+		},
+		"phone": "2028339538",
+		"snippet_text": "You are hungover. Not a \"I had a few too many Maker's and gingers\" hangover. A \"oh good lord why did I drink all that free cheap chardonnay at [insert event...",
+		"categories": [
+			[
+				"Sandwiches",
+				"sandwiches"
+			]
+		],
+		"display_phone": "+1-202-833-9538",
+		"rating_img_url_large": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+		"id": "the-sunrise-cafe-washington",
+		"is_closed": false,
+		"rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png"
+	},
+	{
+		"is_claimed": false,
 		"distance": 240.29309396734843,
 		"mobile_url": "http://m.yelp.com/biz/daily-14-washington",
 		"rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
@@ -5314,50 +5358,6 @@
 		"id": "daily-14-washington",
 		"is_closed": false,
 		"rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
-	},
-	{
-		"is_claimed": false,
-		"distance": 466.74471181190347,
-		"mobile_url": "http://m.yelp.com/biz/the-sunrise-cafe-washington",
-		"rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
-		"review_count": 4,
-		"name": "The Sunrise Cafe",
-		"snippet_image_url": "http://s3-media4.ak.yelpcdn.com/photo/IZBitaus6MrDsM2wDdsi5A/ms.jpg",
-		"rating": 3,
-		"url": "http://www.yelp.com/biz/the-sunrise-cafe-washington",
-		"location": {
-			"cross_streets": "N 16th St & N 17th St",
-			"city": "Washington",
-			"display_address": [
-				"1622 I St NW",
-				"(b/t N 16th St & N 17th St)",
-				"Washington, DC 20006"
-			],
-			"geo_accuracy": 8,
-			"postal_code": "20006",
-			"country_code": "US",
-			"address": [
-				"1622 I St NW"
-			],
-			"coordinate": {
-				"latitude": 38.9012583,
-				"longitude": -77.0380387
-			},
-			"state_code": "DC"
-		},
-		"phone": "2028339538",
-		"snippet_text": "You are hungover. Not a \"I had a few too many Maker's and gingers\" hangover. A \"oh good lord why did I drink all that free cheap chardonnay at [insert event...",
-		"categories": [
-			[
-				"Sandwiches",
-				"sandwiches"
-			]
-		],
-		"display_phone": "+1-202-833-9538",
-		"rating_img_url_large": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
-		"id": "the-sunrise-cafe-washington",
-		"is_closed": false,
-		"rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png"
 	},
 	{
 		"is_claimed": false,
@@ -5466,6 +5466,55 @@
 		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png"
 	},
 	{
+		"is_claimed": true,
+		"distance": 562.7896524682893,
+		"mobile_url": "http://m.yelp.com/biz/tortilla-coast-washington-2",
+		"rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
+		"review_count": 171,
+		"name": "Tortilla Coast",
+		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/y7igdwYBWLShUAshCggwXA/ms.jpg",
+		"rating": 2.5,
+		"url": "http://www.yelp.com/biz/tortilla-coast-washington-2",
+		"location": {
+			"cross_streets": "N 15th St & N 14th St",
+			"city": "Washington",
+			"display_address": [
+				"1460 P St NW",
+				"(b/t N 15th St & N 14th St)",
+				"Logan Circle",
+				"Washington, DC 20005"
+			],
+			"geo_accuracy": 9,
+			"neighborhoods": [
+				"Logan Circle"
+			],
+			"postal_code": "20005",
+			"country_code": "US",
+			"address": [
+				"1460 P St NW"
+			],
+			"coordinate": {
+				"latitude": 38.909458287917,
+				"longitude": -77.03414936672999
+			},
+			"state_code": "DC"
+		},
+		"phone": "2026293280",
+		"snippet_text": "Being from California, I have a really hard time with mexican food in other places. Overall, Tortilla Coast is ok, reasonably priced, and their drinks are...",
+		"image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/hDlgeDDpYKgB1VRfz4i3Tw/ms.jpg",
+		"categories": [
+			[
+				"Mexican",
+				"mexican"
+			]
+		],
+		"display_phone": "+1-202-629-3280",
+		"rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
+		"id": "tortilla-coast-washington-2",
+		"is_closed": false,
+		"rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png"
+	},
+	{
 		"is_claimed": false,
 		"distance": 427.52549141291814,
 		"mobile_url": "http://m.yelp.com/biz/bravo-bravo-washington",
@@ -5517,55 +5566,6 @@
 		"rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
 		"menu_provider": "singleplatform",
 		"id": "bravo-bravo-washington",
-		"is_closed": false,
-		"rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png"
-	},
-	{
-		"is_claimed": true,
-		"distance": 562.7896524682893,
-		"mobile_url": "http://m.yelp.com/biz/tortilla-coast-washington-2",
-		"rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c7fb9aff59f9/ico/stars/v1/stars_2_half.png",
-		"review_count": 170,
-		"name": "Tortilla Coast",
-		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/y7igdwYBWLShUAshCggwXA/ms.jpg",
-		"rating": 2.5,
-		"url": "http://www.yelp.com/biz/tortilla-coast-washington-2",
-		"location": {
-			"cross_streets": "N 15th St & N 14th St",
-			"city": "Washington",
-			"display_address": [
-				"1460 P St NW",
-				"(b/t N 15th St & N 14th St)",
-				"Logan Circle",
-				"Washington, DC 20005"
-			],
-			"geo_accuracy": 9,
-			"neighborhoods": [
-				"Logan Circle"
-			],
-			"postal_code": "20005",
-			"country_code": "US",
-			"address": [
-				"1460 P St NW"
-			],
-			"coordinate": {
-				"latitude": 38.909458287917,
-				"longitude": -77.03414936672999
-			},
-			"state_code": "DC"
-		},
-		"phone": "2026293280",
-		"snippet_text": "Being from California, I have a really hard time with mexican food in other places. Overall, Tortilla Coast is ok, reasonably priced, and their drinks are...",
-		"image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/hDlgeDDpYKgB1VRfz4i3Tw/ms.jpg",
-		"categories": [
-			[
-				"Mexican",
-				"mexican"
-			]
-		],
-		"display_phone": "+1-202-629-3280",
-		"rating_img_url_large": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/d63e3add9901/ico/stars/v1/stars_large_2_half.png",
-		"id": "tortilla-coast-washington-2",
 		"is_closed": false,
 		"rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png"
 	},
@@ -5662,57 +5662,6 @@
 		"id": "borinquen-lunch-box-washington",
 		"is_closed": false,
 		"rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png"
-	},
-	{
-		"is_claimed": true,
-		"distance": 573.0699132103387,
-		"mobile_url": "http://m.yelp.com/biz/teaism-washington-9",
-		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
-		"review_count": 70,
-		"name": "Teaism",
-		"snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/BuPMBF6jZHnpcUia8eH0AQ/ms.jpg",
-		"rating": 3.5,
-		"url": "http://www.yelp.com/biz/teaism-washington-9",
-		"location": {
-			"cross_streets": "N 17th St & N H St",
-			"city": "Washington",
-			"display_address": [
-				"800 Connecticut Ave NW",
-				"(b/t N 17th St & N H St)",
-				"Washington, DC 20006"
-			],
-			"geo_accuracy": 9,
-			"postal_code": "20006",
-			"country_code": "US",
-			"address": [
-				"800 Connecticut Ave NW"
-			],
-			"coordinate": {
-				"latitude": 38.900364637985994,
-				"longitude": -77.03858050945401
-			},
-			"state_code": "DC"
-		},
-		"menu_date_updated": 1374464956,
-		"phone": "2028352233",
-		"snippet_text": "Chai how I love thee.  I visit Teaism every time I'm in DC. \n\nCookies- I can't come back to the Seattle office without them for fear of being thrown out.",
-		"image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/qwjrNxB-sRICXYWEtrvzFw/ms.jpg",
-		"categories": [
-			[
-				"Coffee & Tea",
-				"coffee"
-			],
-			[
-				"Asian Fusion",
-				"asianfusion"
-			]
-		],
-		"display_phone": "+1-202-835-2233",
-		"rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
-		"menu_provider": "singleplatform",
-		"id": "teaism-washington-9",
-		"is_closed": false,
-		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png"
 	},
 	{
 		"is_claimed": true,
@@ -5813,7 +5762,7 @@
 						"title": "$20 for $40",
 						"price": 2000,
 						"purchase_url": "https://www.yelp.com/checkout/deal/5aTO7qsy20ronMekubVY6A",
-						"remaining_count": 54,
+						"remaining_count": 53,
 						"formatted_original_price": "$40",
 						"formatted_price": "$20",
 						"is_quantity_limited": true
@@ -6015,6 +5964,57 @@
 	},
 	{
 		"is_claimed": true,
+		"distance": 573.0699132103387,
+		"mobile_url": "http://m.yelp.com/biz/teaism-washington-9",
+		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+		"review_count": 70,
+		"name": "Teaism",
+		"snippet_image_url": "http://s3-media2.ak.yelpcdn.com/photo/BuPMBF6jZHnpcUia8eH0AQ/ms.jpg",
+		"rating": 3.5,
+		"url": "http://www.yelp.com/biz/teaism-washington-9",
+		"location": {
+			"cross_streets": "N 17th St & N H St",
+			"city": "Washington",
+			"display_address": [
+				"800 Connecticut Ave NW",
+				"(b/t N 17th St & N H St)",
+				"Washington, DC 20006"
+			],
+			"geo_accuracy": 9,
+			"postal_code": "20006",
+			"country_code": "US",
+			"address": [
+				"800 Connecticut Ave NW"
+			],
+			"coordinate": {
+				"latitude": 38.900364637985994,
+				"longitude": -77.03858050945401
+			},
+			"state_code": "DC"
+		},
+		"menu_date_updated": 1374464956,
+		"phone": "2028352233",
+		"snippet_text": "Chai how I love thee.  I visit Teaism every time I'm in DC. \n\nCookies- I can't come back to the Seattle office without them for fear of being thrown out.",
+		"image_url": "http://s3-media3.ak.yelpcdn.com/bphoto/qwjrNxB-sRICXYWEtrvzFw/ms.jpg",
+		"categories": [
+			[
+				"Coffee & Tea",
+				"coffee"
+			],
+			[
+				"Asian Fusion",
+				"asianfusion"
+			]
+		],
+		"display_phone": "+1-202-835-2233",
+		"rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+		"menu_provider": "singleplatform",
+		"id": "teaism-washington-9",
+		"is_closed": false,
+		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png"
+	},
+	{
+		"is_claimed": true,
 		"distance": 602.2476797786379,
 		"mobile_url": "http://m.yelp.com/biz/sweetgreen-washington-3",
 		"rating_img_url": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png",
@@ -6163,6 +6163,50 @@
 		"rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png"
 	},
 	{
+		"is_claimed": true,
+		"distance": 544.4775537429742,
+		"mobile_url": "http://m.yelp.com/biz/crepes-parfait-washington",
+		"rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
+		"review_count": 15,
+		"name": "Crepes Parfait",
+		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/JR21d_EDxbgaWgC0N0zlmg/ms.jpg",
+		"rating": 4.5,
+		"url": "http://www.yelp.com/biz/crepes-parfait-washington",
+		"location": {
+			"city": "Washington",
+			"display_address": [
+				"Logan Circle",
+				"Washington, DC 20005"
+			],
+			"geo_accuracy": 5,
+			"neighborhoods": [
+				"Logan Circle"
+			],
+			"postal_code": "20005",
+			"country_code": "US",
+			"address": [],
+			"coordinate": {
+				"latitude": 38.908229,
+				"longitude": -77.030539
+			},
+			"state_code": "DC"
+		},
+		"phone": "2024554331",
+		"snippet_text": "alright, here's how it goes. Crepes Parfait is amazing.Crepes Parfait is at Gelman Library at GWU on Tuesdays and Thursdays, there have been days that all I...",
+		"image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/t9tOlmeM2zRYHXnAwrfBpg/ms.jpg",
+		"categories": [
+			[
+				"Creperies",
+				"creperies"
+			]
+		],
+		"display_phone": "+1-202-455-4331",
+		"rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
+		"id": "crepes-parfait-washington",
+		"is_closed": false,
+		"rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
+	},
+	{
 		"is_claimed": false,
 		"distance": 209.52888705491296,
 		"mobile_url": "http://m.yelp.com/biz/nea-cafeteria-washington",
@@ -6207,50 +6251,6 @@
 			},
 			"state_code": "DC"
 		}
-	},
-	{
-		"is_claimed": true,
-		"distance": 544.4775537429742,
-		"mobile_url": "http://m.yelp.com/biz/crepes-parfait-washington",
-		"rating_img_url": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png",
-		"review_count": 15,
-		"name": "Crepes Parfait",
-		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/JR21d_EDxbgaWgC0N0zlmg/ms.jpg",
-		"rating": 4.5,
-		"url": "http://www.yelp.com/biz/crepes-parfait-washington",
-		"location": {
-			"city": "Washington",
-			"display_address": [
-				"Logan Circle",
-				"Washington, DC 20005"
-			],
-			"geo_accuracy": 5,
-			"neighborhoods": [
-				"Logan Circle"
-			],
-			"postal_code": "20005",
-			"country_code": "US",
-			"address": [],
-			"coordinate": {
-				"latitude": 38.908229,
-				"longitude": -77.030539
-			},
-			"state_code": "DC"
-		},
-		"phone": "2024554331",
-		"snippet_text": "alright, here's how it goes. Crepes Parfait is amazing.Crepes Parfait is at Gelman Library at GWU on Tuesdays and Thursdays, there have been days that all I...",
-		"image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/t9tOlmeM2zRYHXnAwrfBpg/ms.jpg",
-		"categories": [
-			[
-				"Creperies",
-				"creperies"
-			]
-		],
-		"display_phone": "+1-202-455-4331",
-		"rating_img_url_large": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png",
-		"id": "crepes-parfait-washington",
-		"is_closed": false,
-		"rating_img_url_small": "http://s3-media2.ak.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
 	},
 	{
 		"is_claimed": false,
@@ -6619,65 +6619,6 @@
 		"rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png"
 	},
 	{
-		"is_claimed": true,
-		"distance": 667.4782325189035,
-		"mobile_url": "http://m.yelp.com/biz/cafe-luna-washington",
-		"rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
-		"review_count": 147,
-		"name": "Cafe Luna",
-		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/20pZ18kp_1w4VYC0Ja0sTw/ms.jpg",
-		"rating": 3,
-		"url": "http://www.yelp.com/biz/cafe-luna-washington",
-		"location": {
-			"cross_streets": "N 17th St & N 16th St",
-			"city": "Washington",
-			"display_address": [
-				"1633 P St NW",
-				"(b/t N 17th St & N 16th St)",
-				"Dupont Circle",
-				"Washington, DC 20036"
-			],
-			"geo_accuracy": 8,
-			"neighborhoods": [
-				"Dupont Circle"
-			],
-			"postal_code": "20036",
-			"country_code": "US",
-			"address": [
-				"1633 P St NW"
-			],
-			"coordinate": {
-				"latitude": 38.9097465,
-				"longitude": -77.0379807
-			},
-			"state_code": "DC"
-		},
-		"menu_date_updated": 1374312631,
-		"phone": "2023874005",
-		"snippet_text": "The only reason we were going to this place or even learned of this places' existence, was because we bought a \"deal\".  The only reason we bought the \"deal\"...",
-		"image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/T8tp0b9ySfyAguq6BXWBsg/ms.jpg",
-		"categories": [
-			[
-				"Italian",
-				"italian"
-			],
-			[
-				"Breakfast & Brunch",
-				"breakfast_brunch"
-			],
-			[
-				"Pizza",
-				"pizza"
-			]
-		],
-		"display_phone": "+1-202-387-4005",
-		"rating_img_url_large": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
-		"menu_provider": "single_platform",
-		"id": "cafe-luna-washington",
-		"is_closed": false,
-		"rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png"
-	},
-	{
 		"is_claimed": false,
 		"distance": 222.56619953505046,
 		"mobile_url": "http://m.yelp.com/biz/mo-joe-coffee-washington",
@@ -6812,6 +6753,65 @@
 		"id": "popeyes-famous-fried-chicken-washington-4",
 		"is_closed": false,
 		"rating_img_url_small": "http://s3-media4.ak.yelpcdn.com/assets/2/www/img/8e8633e5f8f0/ico/stars/v1/stars_small_2_half.png"
+	},
+	{
+		"is_claimed": true,
+		"distance": 667.4782325189035,
+		"mobile_url": "http://m.yelp.com/biz/cafe-luna-washington",
+		"rating_img_url": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/34bc8086841c/ico/stars/v1/stars_3.png",
+		"review_count": 147,
+		"name": "Cafe Luna",
+		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/20pZ18kp_1w4VYC0Ja0sTw/ms.jpg",
+		"rating": 3,
+		"url": "http://www.yelp.com/biz/cafe-luna-washington",
+		"location": {
+			"cross_streets": "N 17th St & N 16th St",
+			"city": "Washington",
+			"display_address": [
+				"1633 P St NW",
+				"(b/t N 17th St & N 16th St)",
+				"Dupont Circle",
+				"Washington, DC 20036"
+			],
+			"geo_accuracy": 8,
+			"neighborhoods": [
+				"Dupont Circle"
+			],
+			"postal_code": "20036",
+			"country_code": "US",
+			"address": [
+				"1633 P St NW"
+			],
+			"coordinate": {
+				"latitude": 38.9097465,
+				"longitude": -77.0379807
+			},
+			"state_code": "DC"
+		},
+		"menu_date_updated": 1374312631,
+		"phone": "2023874005",
+		"snippet_text": "The only reason we were going to this place or even learned of this places' existence, was because we bought a \"deal\".  The only reason we bought the \"deal\"...",
+		"image_url": "http://s3-media4.ak.yelpcdn.com/bphoto/T8tp0b9ySfyAguq6BXWBsg/ms.jpg",
+		"categories": [
+			[
+				"Italian",
+				"italian"
+			],
+			[
+				"Breakfast & Brunch",
+				"breakfast_brunch"
+			],
+			[
+				"Pizza",
+				"pizza"
+			]
+		],
+		"display_phone": "+1-202-387-4005",
+		"rating_img_url_large": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/e8b5b79d37ed/ico/stars/v1/stars_large_3.png",
+		"menu_provider": "single_platform",
+		"id": "cafe-luna-washington",
+		"is_closed": false,
+		"rating_img_url_small": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/902abeed0983/ico/stars/v1/stars_small_3.png"
 	},
 	{
 		"is_claimed": false,
@@ -7750,6 +7750,47 @@
 		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/74cb12ae7253/ico/stars/v1/stars_small_1.png"
 	},
 	{
+		"is_claimed": true,
+		"distance": 602.8094538998689,
+		"mobile_url": "http://m.yelp.com/biz/food-chain-washington-2",
+		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
+		"review_count": 7,
+		"name": "Food Chain",
+		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/VgfPvftxiLHYbltQf13ong/ms.jpg",
+		"rating": 3.5,
+		"url": "http://www.yelp.com/biz/food-chain-washington-2",
+		"snippet_text": "I've been visiting this stand for years.  The operator is a really wonderful lady, she's had the stand as long as I've been coming there.  The only time...",
+		"image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/rC2gtDwYGa-KDuExVxfWWg/ms.jpg",
+		"categories": [
+			[
+				"Food Stands",
+				"foodstands"
+			]
+		],
+		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
+		"rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
+		"id": "food-chain-washington-2",
+		"is_closed": false,
+		"location": {
+			"city": "Washington",
+			"display_address": [
+				"14th St NW & New York Ave NW",
+				"Washington, DC 20005"
+			],
+			"geo_accuracy": 7,
+			"postal_code": "20005",
+			"country_code": "US",
+			"address": [
+				"14th St NW & New York Ave NW"
+			],
+			"coordinate": {
+				"latitude": 38.8993518,
+				"longitude": -77.0319366
+			},
+			"state_code": "DC"
+		}
+	},
+	{
 		"is_claimed": false,
 		"distance": 206.91905171746012,
 		"mobile_url": "http://m.yelp.com/biz/pizza-authentica-washington-2",
@@ -7787,47 +7828,6 @@
 			"coordinate": {
 				"latitude": 38.9025433,
 				"longitude": -77.0345507
-			},
-			"state_code": "DC"
-		}
-	},
-	{
-		"is_claimed": true,
-		"distance": 602.8094538998689,
-		"mobile_url": "http://m.yelp.com/biz/food-chain-washington-2",
-		"rating_img_url": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/5ef3eb3cb162/ico/stars/v1/stars_3_half.png",
-		"review_count": 7,
-		"name": "Food Chain",
-		"snippet_image_url": "http://s3-media3.ak.yelpcdn.com/photo/VgfPvftxiLHYbltQf13ong/ms.jpg",
-		"rating": 3.5,
-		"url": "http://www.yelp.com/biz/food-chain-washington-2",
-		"snippet_text": "I've been visiting this stand for years.  The operator is a really wonderful lady, she's had the stand as long as I've been coming there.  The only time...",
-		"image_url": "http://s3-media2.ak.yelpcdn.com/bphoto/rC2gtDwYGa-KDuExVxfWWg/ms.jpg",
-		"categories": [
-			[
-				"Food Stands",
-				"foodstands"
-			]
-		],
-		"rating_img_url_small": "http://s3-media1.ak.yelpcdn.com/assets/2/www/img/2e909d5d3536/ico/stars/v1/stars_small_3_half.png",
-		"rating_img_url_large": "http://s3-media3.ak.yelpcdn.com/assets/2/www/img/bd9b7a815d1b/ico/stars/v1/stars_large_3_half.png",
-		"id": "food-chain-washington-2",
-		"is_closed": false,
-		"location": {
-			"city": "Washington",
-			"display_address": [
-				"14th St NW & New York Ave NW",
-				"Washington, DC 20005"
-			],
-			"geo_accuracy": 7,
-			"postal_code": "20005",
-			"country_code": "US",
-			"address": [
-				"14th St NW & New York Ave NW"
-			],
-			"coordinate": {
-				"latitude": 38.8993518,
-				"longitude": -77.0319366
 			},
 			"state_code": "DC"
 		}

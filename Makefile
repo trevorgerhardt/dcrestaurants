@@ -22,6 +22,6 @@ run:
 	$(json2csv) --input json/$(service).json --output csv/$(service).csv --fields $(fields)
 
 yelp:
-	$(MAKE) run service=yelp fields=distance,name,rating,url,location,phone,categories
+	$(MAKE) run service=yelp fields=distance,name,rating,url,phone
 
 .PHONY: install all run opentable yelp
